@@ -1,6 +1,6 @@
 package com.example.sping_portfolio.controllers;
 
-public class test {
+public class testbySam {
     public static void main(String[] args) {
         double scoreOne;
         scoreOne = 2;
