@@ -9,7 +9,6 @@
       class="navbar navbar-expand-lg navbar-light bg-light"
       th:fragment="header"
     >
-      <a class="navbar-brand" href="http://nighthawkcodingsociety.com/">
         <img
           src="/static/images/ncs_logo.png"
           th:src="@{/images/ncs_logo.png}"
@@ -18,7 +17,7 @@
           class="d-inline-block align-center"
           alt=""
         />
-        Nighthawk Coders
+      <b>Senior Assassins</b>
       </a>
       <button
         class="navbar-toggler"
@@ -37,7 +36,7 @@
           <!--root menu -->
           <li class="nav-item active">
             <a class="nav-link" href="/"
-              >Home <span class="sr-only">(current)</span></a
+              >Rules <span class="sr-only">(current)</span></a
             >
           </li>
           <li class="nav-item dropdown">
@@ -50,7 +49,7 @@
               aria-haspopup="true"
               aria-expanded="false"
             >
-              PBL
+              Eliminated
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="/bg">bg</a>
@@ -67,7 +66,7 @@
               aria-haspopup="true"
               aria-expanded="false"
             >
-              TPT
+              Alive
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a
@@ -75,55 +74,20 @@
                 href="https://freekashmir.nighthawkcodingsociety.com/"
                 target="_blank"
                 rel="noopener noreferrer"
-                >AP units</a
+                >Done Assassinating</a
               >
               <a
                 class="dropdown-item"
                 href="https://drone.nighthawkcodingsociety.com/ap-lessons/interface-abstraction-FRQ"
                 target="_blank"
                 rel="noopener noreferrer"
-                >2006 FRQ</a
-              >
-              <a
-                class="dropdown-item"
-                href="https://drone.nighthawkcodingsociety.com/ap-lessons/interface-abstraction-FRQ"
-                target="_blank"
-                rel="noopener noreferrer"
-                >2019 FRQ</a
+                >Yet to Assassinate</a
               >
             </div>
           </li>
         </ul>
         <!-- Clock display -->
-        <div>
-          <span id="clock"></span>
-        </div>
-        <!-- Dark mode action -->
-        <div class="custom-control custom-switch">
-          <input
-            type="checkbox"
-            onclick="darkFunction()"
-            class="custom-control-input"
-            id="darkSwitch"
-          />
-          <label class="custom-control-label" for="darkSwitch"></label>
-        </div>
         <!-- Navigation bar JavaScript support -->
-        <script>
-          // Dark Mode Toggle
-          function darkFunction() {
-            let element = document.body;
-            element.classList.toggle("dark-mode");
-          }
-          // Clock controller
-          let clockElement = document.getElementById("clock");
-          function clock() {
-            let date = new Date();
-            clockElement.textContent = date.toLocaleString();
-          }
-          // Clock refresh frequency
-          setInterval(clock, 1000);
-        </script>
       </div>
     </nav>
     <!-- Begin navigation fragments -->
