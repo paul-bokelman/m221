@@ -6,6 +6,8 @@
 
 [Sam Mahjouri Tech Talk Notes](https://docs.google.com/document/d/13WPnSnMtUL4bnp5dOZ6WDeoVuI1OcW0uZbBc3tLvT2U/edit?usp=sharing)
 
+[Jagroop Vij's Tech Talk Notes](https://docs.google.com/document/d/1IRCmN5pN-XwPg-95OPInClvOLiPKVoRwjU31HO49Sus/edit)
+
 
 
 
