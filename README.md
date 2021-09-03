@@ -1,6 +1,6 @@
 # Links 
 
-[PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing) - This is where the tangibles, weekly plans, progress for our project is stored
+[PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing) - This is where the tangibles, weekly plans, and progress for our project is stored
 
 [Sam Mahjouri Test Corrections](https://docs.google.com/document/d/1J4m888ltQZlV-p-JNlWyx65KKhqEcEW78RdUCDcRjAw/edit?usp=sharing)
 
