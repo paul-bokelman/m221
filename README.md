@@ -1,3 +1,10 @@
+# Summary
+
+Going to provide seniors from Del Norte a website that displays who is still in/out in Senior Assassins + other cool features. The main goal is to have one page with every player listed with their corresponding photo and either a red X on them (Out) or a green checkmark (Still in). It will provide a higher lever of conveniency for the players
+
+
+
+
 # Links 
 
 [PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing) - This is where the tangibles, weekly plans, and progress for our project is stored
@@ -10,18 +17,19 @@
 
 
 
+# Grades
 
-Senior assassians website
+## Week 2 Grades
 
-Going to provide seniors from Del Norte a website that displays who is still in/out in Senior Assassins + other cool features
+Samuel Mahjouri:
 
-The main goal is to have one page with every player listed with their corresponding photo and either a red X on them (Out) or a green checkmark (Still in)
+Luca Pinto:
 
-It will provide a higher lever of conveniency for the players
+Jagroop Vij:
+
+Ishaan Kapoor:
+
+Paul Bokelman:
 
 
 
-
-Here is the link to the Table of Contents for our Group
-
-[link](https://docs.google.com/spreadsheets/d/1y156zADXla5j3YT0FFcpk30LSt2h3LihYDeHE2YKKMY/edit?usp=sharing)
