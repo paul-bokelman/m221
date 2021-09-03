@@ -7,6 +7,8 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 # Links 
 
+[Website Storyboard](https://docs.google.com/presentation/d/1WWrl7VHdD9_-FT2YAbVxNAUYu89o7KVJRLpROyOTjAY/edit#slide=id.p)
+
 [PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing) - This is where the tangibles, weekly plans, and progress for our project is stored
 
 [Sam Mahjouri Test Corrections](https://docs.google.com/document/d/1J4m888ltQZlV-p-JNlWyx65KKhqEcEW78RdUCDcRjAw/edit?usp=sharing)
