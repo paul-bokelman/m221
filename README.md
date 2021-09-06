@@ -7,7 +7,13 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 # Links 
 
-[Website Storyboard](https://docs.google.com/presentation/d/1WWrl7VHdD9_-FT2YAbVxNAUYu89o7KVJRLpROyOTjAY/edit#slide=id.p)
+[Roop's ticket](https://github.com/paul-bokelman/m221/issues/8)
+
+[Ishan and Luca's Ticket](https://github.com/paul-bokelman/m221/issues/10)
+
+[Sam's Ticket](https://github.com/paul-bokelman/m221/issues/7)
+
+[Paul's Ticket](https://github.com/paul-bokelman/m221/issues/9)
 
 [PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing) - This is where the tangibles, weekly plans, and progress for our project is stored
 
@@ -25,15 +31,15 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 ## Week 2 Grades
 
-Samuel Mahjouri: 5/5
+Samuel Mahjouri: 4/5
 
-Luca Pinto: 5/5
+Luca Pinto: 3/5
 
-Jagroop Vij: 5/5 
+Jagroop Vij: 4/5 
 
-Ishaan Kapoor: 5/5
+Ishaan Kapoor: 3/5
 
-Paul Bokelman: 5/5
+Paul Bokelman: 4/5
 
 
 
