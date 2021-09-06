@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html
+        xmlns:layout="http://www.w3.org/1999/xhtml"
+        xmlns:th="http://www.w3.org/1999/xhtml"
+        layout:decorate="~{layout}"
+        lang="en"
+>
+<head>
+  <div layout:fragment="metadata" th:remove="tag">
+    <title>Senior Assassins 2022</title>
+  </div>
+</head>
+
+<!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+<body>
+<div layout:fragment="content" th:remove="tag">
+  <!-- Start of body content specific to page -->
+  <div id="spring_intro" class="articles" style="margin: 30px">
+    <h1><strong>About Us</strong></h1>
+  </div>
+  <!-- End of body content specific to page -->
+</div>
+</body>
+</html>
