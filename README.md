@@ -17,21 +17,23 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 [Jagroop Vij's Tech Talk Notes](https://docs.google.com/document/d/1IRCmN5pN-XwPg-95OPInClvOLiPKVoRwjU31HO49Sus/edit)
 
+[Luca Pinto Journal](https://docs.google.com/document/d/1o6jel5V2YsOTTnGLbwFYh2T1PtHx-hJ2KlFS8i6V_qs/edit?usp=sharing)
+
 
 
 # Grades
 
 ## Week 2 Grades
 
-Samuel Mahjouri:
+Samuel Mahjouri: 5/5
 
-Luca Pinto:
+Luca Pinto: 5/5
 
-Jagroop Vij:
+Jagroop Vij: 5/5 
 
-Ishaan Kapoor:
+Ishaan Kapoor: 5/5
 
-Paul Bokelman:
+Paul Bokelman: 5/5
 
 
 
