@@ -15,7 +15,7 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 [Paul's Ticket](https://github.com/paul-bokelman/m221/issues/9)
 
-[PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing) - This is where the tangibles, weekly plans, and progress for our project is stored
+[PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing) - This is where the weekly plans and progress for our project are recorded.
 
 [Sam Mahjouri Test Corrections](https://docs.google.com/document/d/1J4m888ltQZlV-p-JNlWyx65KKhqEcEW78RdUCDcRjAw/edit?usp=sharing)
 
