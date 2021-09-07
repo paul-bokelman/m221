@@ -17,7 +17,6 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 [Sam's Tech Talk Notes](https://docs.google.com/document/d/13WPnSnMtUL4bnp5dOZ6WDeoVuI1OcW0uZbBc3tLvT2U/edit?usp=sharing)
 
-[Sam's Ticket of the Week](https://github.com/paul-bokelman/m221/issues/7)
 
 ## Ishaan
 
@@ -47,7 +46,7 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 ## Week 2 Grades
 
-Samuel Mahjouri: 4/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our group
+[Samuel Mahjouri](https://github.com/paul-bokelman/m221/issues/7): 4/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our group
 
 Luca Pinto: 3/5 - 
 
