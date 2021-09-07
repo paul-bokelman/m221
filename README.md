@@ -44,6 +44,8 @@ _Click on names to go to tickets to see tangibles_
 
 ## Week 2 Grades
 
+**[Video](https://www.youtube.com/watch?v=J5mrEDij27Y)**
+
 <details>
 <summary>Samuel Mahjouri Total Grade: 9/10</summary>
 <br>
