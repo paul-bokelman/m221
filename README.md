@@ -47,15 +47,15 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 ## Week 2 Grades
 
-Samuel Mahjouri: 5/5
+Samuel Mahjouri: 4/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our group
 
-Luca Pinto: 5/5
+Luca Pinto: 3/5 - 
 
-Jagroop Vij: 5/5 
+Jagroop Vij: 4/5 
 
-Ishaan Kapoor: 5/5
+Ishaan Kapoor: 3/5
 
-Paul Bokelman: 5/5 - Completed all tangibles on time just had communication problems with teams, both progress checks completed and corrected. 
+Paul Bokelman: 4/5
 
 
 
