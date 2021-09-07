@@ -65,8 +65,8 @@ Ishaan Kapoor Team Grade: 5/5 - Completed my tangibles
 Ishaan Kapoor Self Grade: 4/5 - I completed my test corrections but did them a bit late so I took away one point
 **Ishaan Kapoor Total Grade: 8/10
 
-Paul Bokelman Team Grade: 5/5 - Completed my tangibles
-Paul Bokelman Self Grade: 4/5 - I completed my test corrections but did them a bit late so I took away one point
-**Paul Bokelman Total Grade: 8/10
+[Paul Bokelman Team Grade](https://github.com/paul-bokelman/m221/issues/9): 5/5 - Completed my tangibles on time. 
+Paul Bokelman Self Grade: 5/5 - I did everything on time but there was major communication issues.
+**Paul Bokelman Total Grade: 10/10
 
 
