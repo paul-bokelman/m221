@@ -2,9 +2,7 @@
 
 Going to provide seniors from Del Norte a website that displays who is still in/out in Senior Assassins + other cool features. The main goal is to have one page with every player listed with their corresponding photo and either a red X on them (Out) or a green checkmark (Still in). It will provide a higher lever of conveniency for the players
 
-# Links
-
-## Everyone
+# Team
 
 [PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing) - This is where the weekly plans and progress for our project are recorded.
 
@@ -57,8 +55,8 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 [Paul's Ticket of the Week](https://github.com/paul-bokelman/m221/issues/9)
   
 </details>
-
-## Week 2 Grades
+  
+# Week 2 Grades
 
 _Click on names to go to tickets to see tangibles_
 
