@@ -38,7 +38,7 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 ## Paul
 
-[Paul's Journal](https://docs.google.com/document/d/12QFLbm3LEl3rWMRoM3ZKEnSf0CLwelTJDJ3ESmEY55M/edit#heading=h.pkw01rg8bsdy)
+[Paul's Journal (Test corrections)](https://docs.google.com/document/d/12QFLbm3LEl3rWMRoM3ZKEnSf0CLwelTJDJ3ESmEY55M/edit#heading=h.pkw01rg8bsdy)
 
 [Paul's Ticket of the Week](https://github.com/paul-bokelman/m221/issues/9)
 
