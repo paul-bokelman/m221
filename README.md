@@ -2,10 +2,7 @@
 
 Going to provide seniors from Del Norte a website that displays who is still in/out in Senior Assassins + other cool features. The main goal is to have one page with every player listed with their corresponding photo and either a red X on them (Out) or a green checkmark (Still in). It will provide a higher lever of conveniency for the players
 
-
-
-
-# Links 
+# Links
 
 ## Everyone
 
@@ -16,7 +13,6 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 [Sam's Test Corrections](https://docs.google.com/document/d/1J4m888ltQZlV-p-JNlWyx65KKhqEcEW78RdUCDcRjAw/edit?usp=sharing)
 
 [Sam's Tech Talk Notes](https://docs.google.com/document/d/13WPnSnMtUL4bnp5dOZ6WDeoVuI1OcW0uZbBc3tLvT2U/edit?usp=sharing)
-
 
 ## Ishaan
 
@@ -30,7 +26,6 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 ## Roop
 
-
 [Jagroop's Tech Talk Notes](https://docs.google.com/document/d/1IRCmN5pN-XwPg-95OPInClvOLiPKVoRwjU31HO49Sus/edit)
 
 [Jagroop's Ticket of the Week](https://github.com/paul-bokelman/m221/issues/8)
@@ -41,32 +36,41 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 [Paul's Ticket of the Week](https://github.com/paul-bokelman/m221/issues/9)
 
-
 # Grades
 
-*Click on names to go to tickets to see tangibles*
-___________________________________________________________________
+_Click on names to go to tickets to see tangibles_
+
+---
 
 ## Week 2 Grades
 
-### Samuel Mahjouri
+<details>
+<summary>Samuel Mahjouri</summary>
+<br>
 
 **Samuel Mahjouri Total Grade: 9/10**
 
-[Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 4/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our 
+[Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 4/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our
 
 Samuel Mahouri Self Grade: 5/5 - I did both of my Test Corrections on time and my plan for the rest of the year is to bring my laptop into school
 
+</details>
 
-### Luca Pinto 
+<details>
+<summary>Luca Pinto</summary>
+<br>
 
 **Luca Pinto Total Grade: 8/10**
 
 Luca Pinto Team Grade: 4/5 - Didn't do his tangibles on time but still did them
 
-Luca Pinto Self Grade: 5/5 - 
+Luca Pinto Self Grade: 5/5 -
 
-### Jagroop Vij
+</details>
+
+<details>
+<summary>Jagroop Vij</summary>
+<br>
 
 **Jagroop Vij Total Grade: 8/10**
 
@@ -74,7 +78,11 @@ Jagroop Vij Team Grade: 5/5 - Completed my tangibles
 
 Jagroop Vij Self Grade: 4/5 - I completed my test corrections but did them a bit late so I took away one point
 
-### Ishaan Kapoor
+</details>
+
+<details>
+<summary>Ishaan Kapoor</summary>
+<br>
 
 **Ishaan Kapoor Total Grade: 8/10**
 
@@ -82,14 +90,16 @@ Ishaan Kapoor Team Grade: 5/5 - Completed my tangibles
 
 Ishaan Kapoor Self Grade: 4/5 - I completed my test corrections but did them a bit late so I took away one point
 
-### Paul Bokelman
+</details>
+
+<details>
+<summary>Paul Bokelman</summary>
+<br>
 
 **Paul Bokelman Total Grade: 10/10**
 
-[Paul Bokelman Team Grade](https://github.com/paul-bokelman/m221/issues/9): 5/5 - Completed my tangibles on time. 
+[Paul Bokelman Team Grade](https://github.com/paul-bokelman/m221/issues/9): 5/5 - Completed my tangibles on time.
 
 Paul Bokelman Self Grade: 5/5 - I did everything on time but there was major communication issues.
 
-
-
-
+</details>
