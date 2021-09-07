@@ -58,13 +58,9 @@ Going to provide seniors from Del Norte a website that displays who is still in/
   
 </details>
 
-# Grades
+## Week 2 Grades
 
 _Click on names to go to tickets to see tangibles_
-
----
-
-## Week 2 Grades
 
 **[Video](https://www.youtube.com/watch?v=J5mrEDij27Y)**
 
