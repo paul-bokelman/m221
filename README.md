@@ -47,6 +47,7 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 ## Week 2 Grades
 
 *Click on names to go to tickets to see our completed tangibles*
+___________________________________________________________________
 
 [Samuel Mahjouri](https://github.com/paul-bokelman/m221/issues/7): 4/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our group
 
