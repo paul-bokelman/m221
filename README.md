@@ -45,10 +45,8 @@ _Click on names to go to tickets to see tangibles_
 ## Week 2 Grades
 
 <details>
-<summary>Samuel Mahjouri</summary>
+<summary>Samuel Mahjouri Total Grade: 9/10</summary>
 <br>
-
-**Samuel Mahjouri Total Grade: 9/10**
 
 [Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 4/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our
 
@@ -57,10 +55,8 @@ Samuel Mahouri Self Grade: 5/5 - I did both of my Test Corrections on time and m
 </details>
 
 <details>
-<summary>Luca Pinto</summary>
+<summary>Luca Pinto Total Grade: 9/10</summary>
 <br>
-
-**Luca Pinto Total Grade: 8/10**
 
 Luca Pinto Team Grade: 4/5 - Didn't do his tangibles on time but still did them
 
@@ -69,10 +65,8 @@ Luca Pinto Self Grade: 5/5 -
 </details>
 
 <details>
-<summary>Jagroop Vij</summary>
+<summary>Jagroop Vij Total Grade: 9/10</summary>
 <br>
-
-**Jagroop Vij Total Grade: 8/10**
 
 Jagroop Vij Team Grade: 5/5 - Completed my tangibles
 
@@ -81,7 +75,7 @@ Jagroop Vij Self Grade: 4/5 - I completed my test corrections but did them a bit
 </details>
 
 <details>
-<summary>Ishaan Kapoor</summary>
+<summary>Ishaan Kapoor Total Grade: 9/10</summary>
 <br>
 
 **Ishaan Kapoor Total Grade: 8/10**
@@ -93,10 +87,8 @@ Ishaan Kapoor Self Grade: 4/5 - I completed my test corrections but did them a b
 </details>
 
 <details>
-<summary>Paul Bokelman</summary>
+<summary>Paul Bokelman Total Grade: 10/10 </summary>
 <br>
-
-**Paul Bokelman Total Grade: 10/10**
 
 [Paul Bokelman Team Grade](https://github.com/paul-bokelman/m221/issues/9): 5/5 - Completed my tangibles on time.
 
