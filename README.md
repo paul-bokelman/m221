@@ -47,15 +47,15 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 ## Week 2 Grades
 
-Samuel Mahjouri: 4/5
+Samuel Mahjouri: 5/5
 
-Luca Pinto: 3/5
+Luca Pinto: 5/5
 
-Jagroop Vij: 4/5 
+Jagroop Vij: 5/5 
 
-Ishaan Kapoor: 3/5
+Ishaan Kapoor: 5/5
 
-Paul Bokelman: 4/5
+Paul Bokelman: 5/5
 
 
 
