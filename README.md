@@ -55,7 +55,7 @@ Jagroop Vij: 5/5
 
 Ishaan Kapoor: 5/5
 
-Paul Bokelman: 5/5
+Paul Bokelman: 5/5 - Completed all tangibles on time just had communication problems with teams, both progress checks completed and corrected. 
 
 
 
