@@ -51,42 +51,45 @@ ___________________________________________________________________
 
 ### Samuel Mahjouri
 
+**Samuel Mahjouri Total Grade: 9/10**
+
 [Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 4/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our 
 
 Samuel Mahouri Self Grade: 5/5 - I did both of my Test Corrections on time and my plan for the rest of the year is to bring my laptop into school
 
-**Samuel Mahjouri Total Grade: 9/10
 
 ### Luca Pinto 
+
+**Luca Pinto Total Grade: 8/10**
 
 Luca Pinto Team Grade: 4/5 - Didn't do his tangibles on time but still did them
 
 Luca Pinto Self Grade: 5/5 - 
 
-**Luca Pinto Total Grade: 8/10
-
 ### Jagroop Vij
+
+**Jagroop Vij Total Grade: 8/10**
 
 Jagroop Vij Team Grade: 5/5 - Completed my tangibles
 
 Jagroop Vij Self Grade: 4/5 - I completed my test corrections but did them a bit late so I took away one point
 
-**Jagroop Vij Total Grade: 8/10
-
 ### Ishaan Kapoor
+
+**Ishaan Kapoor Total Grade: 8/10**
 
 Ishaan Kapoor Team Grade: 5/5 - Completed my tangibles
 
 Ishaan Kapoor Self Grade: 4/5 - I completed my test corrections but did them a bit late so I took away one point
 
-**Ishaan Kapoor Total Grade: 8/10
-
 ### Paul Bokelman
+
+**Paul Bokelman Total Grade: 10/10**
 
 [Paul Bokelman Team Grade](https://github.com/paul-bokelman/m221/issues/9): 5/5 - Completed my tangibles on time. 
 
 Paul Bokelman Self Grade: 5/5 - I did everything on time but there was major communication issues.
 
-**Paul Bokelman Total Grade: 10/10
+
 
 
