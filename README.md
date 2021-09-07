@@ -49,15 +49,24 @@ ___________________________________________________________________
 
 ## Week 2 Grades
 
-[Samuel Mahjouri](https://github.com/paul-bokelman/m221/issues/7): 4/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our group
+[Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 4/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our group
+Samuel Mahouri Self Grade: 5/5 - I did both of my Test Corrections on time and my plan for the rest of the year is to bring my laptop into school
+**Samuel Mahjouri Total Grade: 9/10
 
-Luca Pinto: 3/5 - 
+Luca Pinto Team Grade: 3/5 - 
+Luca Pinto Self Grade: 5/5 - 
+**Luca Pinto Total Grade: 8/10
 
-Jagroop Vij: 4/5 
+Jagroop Vij Team Grade: 5/5 - Completed my tangibles
+Jagroop Vij Self Grade: 4/5 - I completed my test corrections but did them a bit late so I took away one point
+**Jagroop Vij Total Grade: 8/10
 
-Ishaan Kapoor: 3/5
+Ishaan Kapoor Team Grade: 5/5 - Completed my tangibles
+Ishaan Kapoor Self Grade: 4/5 - I completed my test corrections but did them a bit late so I took away one point
+**Ishaan Kapoor Total Grade: 8/10
 
-Paul Bokelman: 4/5
-
+Paul Bokelman Team Grade: 5/5 - Completed my tangibles
+Paul Bokelman Self Grade: 4/5 - I completed my test corrections but did them a bit late so I took away one point
+**Paul Bokelman Total Grade: 8/10
 
 
