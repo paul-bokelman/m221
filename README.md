@@ -61,12 +61,12 @@ _Click on names to go to tickets to see tangibles_
 **[Video](https://www.youtube.com/watch?v=J5mrEDij27Y)**
 
 <details>
-<summary>Samuel Mahjouri Total Grade: 9/10</summary>
+<summary>Samuel Mahjouri Total Grade: 10/10</summary>
 <br>
 
-[Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 4/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our
+[Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 5/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our team which took a lot of effort.
 
-Samuel Mahouri Self Grade: 5/5 - I did both of my Test Corrections on time and my plan for the rest of the year is to bring my laptop into school
+Samuel Mahouri Self Grade: 5/5 - I also completed my minilab. I did both of my Test Corrections on time and my plan for the rest of the year is to bring my laptop into school.
 
 </details>
 
