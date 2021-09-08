@@ -91,14 +91,14 @@ Jagroop Vij Self Grade: 4/5 - I completed my test corrections and the test itsel
 </details>
 
 <details>
-<summary>Ishaan Kapoor Total Grade: 9/10</summary>
+<summary>Ishan Kapoor Total Grade: 9/10</summary>
 <br>
 
-**Ishaan Kapoor Total Grade: 8/10**
+**Ishan Kapoor Total Grade: 9/10**
 
 Ishaan Kapoor Team Grade: 5/5 - Completed my tangibles
 
-Ishaan Kapoor Self Grade: 4/5 - I completed my test corrections but did them a bit late so I took away one point
+Ishaan Kapoor Self Grade: 4/5 - I completed my test corrections but didn't communicate well that I have completed it so I took away one point
 
 </details>
 
