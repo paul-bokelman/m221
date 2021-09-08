@@ -21,10 +21,10 @@
         <h1><strong>Alive</strong></h1>
       </div>
 
-      <div layout:fragment="card" th:remove="tag">
-        <!-- start of card -->
-
-        <!-- end of card -->
+      <div class="card-grid">
+        <div th:each="i : ${#numbers.sequence( 1, 9, 1)}">
+          <div layout:fragment="card" th:remove="tag"></div>
+        </div>
       </div>
 
       <!-- End of body content specific to page -->
