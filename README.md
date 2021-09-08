@@ -96,7 +96,7 @@ Jagroop Vij Self Grade: 4/5 - I completed my test corrections and the test itsel
 
 **Ishan Kapoor Total Grade: 9/10**
 
-Ishan Kapoor Team Grade: 5/5 - Completed his tangibles and [ticket](https://github.com/paul-bokelman/m221/issues/7)
+Ishan Kapoor Team Grade: 5/5 - Completed his tangibles and [ticket](https://github.com/paul-bokelman/m221/issues/10)
 
 Ishan Kapoor Self Grade: 4/5 - I completed my test corrections but didn't communicate well that I have completed it so I took away one point
 
