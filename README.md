@@ -20,7 +20,7 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 <summary>Ishan's Permalinks</summary>
 <br>
 
-[Ishan's Ticket of the Week](https://github.com/paul-bokelman/m221/issues/10)
+[Ishan Kapoor's Journal](https://docs.google.com/document/d/1bvbj6aZrAFg77SxrK15v2gJzfe5qRikamzlIsG5Nwc8/edit?usp=sharing)
   
 </details>
 
