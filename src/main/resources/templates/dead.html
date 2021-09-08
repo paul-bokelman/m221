@@ -13,6 +13,14 @@
     </div>
   </head>
 
+<!--  <script>
+    window.onload = function() {
+      var name = "mr. m";
+
+      document.getElementById('output').outerHTML = "id=\"output\" href=\"/" + name + "\" class=\"btn btn-primary\"";
+    }
+  </script>-->
+
   <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
   <body>
     <div layout:fragment="content" th:remove="tag">
@@ -20,6 +28,13 @@
       <div id="spring_intro" class="articles" style="margin: 30px">
         <h1 class="test"><strong>Dead</strong></h1>
       </div>
+
+        <div layout:fragment="card" th:remove="tag">
+          <!-- start of card -->
+
+          <!-- end of card -->
+        </div>
+
       <!-- End of body content specific to page -->
     </div>
   </body>
