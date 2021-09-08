@@ -37,7 +37,7 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 </details>
 
 <details>
-<summary>Jgroop's Permalinks</summary>
+<summary>Jagroop's Permalinks</summary>
 <br>
 
 [Jagroop's Tech Talk Notes](https://docs.google.com/document/d/1IRCmN5pN-XwPg-95OPInClvOLiPKVoRwjU31HO49Sus/edit)
