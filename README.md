@@ -81,12 +81,12 @@ Luca Pinto Self Grade: 5/5 -
 </details>
 
 <details>
-<summary>Jagroop Vij Total Grade: 9/10</summary>
+<summary>Jagroop Vij Total Grade: 8/10</summary>
 <br>
 
 Jagroop Vij Team Grade: 5/5 - Completed my [tickets](https://github.com/paul-bokelman/m221/issues/8)
 
-Jagroop Vij Self Grade: 4/5 - I completed my test corrections and the test itself late. I took away 1 point
+Jagroop Vij Self Grade: 3/5 - I didn't complete my test corrections.
 
 </details>
 
