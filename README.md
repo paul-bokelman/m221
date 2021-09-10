@@ -1,3 +1,10 @@
+rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [contributors](https://github.com/paul-bokelman/m221/graphs/contributors)
+
+Paul Bokelman, paul-bokelman, [tasks](https://github.com/paul-bokelman/m221/issues/11), [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [commits](https://github.com/paul-bokelman/m221/graphs/contributors), [profile](https://github.com/paul-bokelman)
+
+
+
+
 # Summary
 
 Going to provide seniors from Del Norte a website that displays who is still in/out in Senior Assassins + other cool features. The main goal is to have one page with every player listed with their corresponding photo and either a red X on them (Out) or a green checkmark (Still in). It will provide a higher lever of conveniency for the players
