@@ -1,14 +1,14 @@
 rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [contributors](https://github.com/paul-bokelman/m221/graphs/contributors)
 
-Paul Bokelman, paul-bokelman, [tasks](https://github.com/paul-bokelman/m221/issues/11), [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [commits](https://github.com/paul-bokelman/m221/graphs/contributors), [profile](https://github.com/paul-bokelman)
+Paul Bokelman, paul-bokelman, [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3Apaul-bokelman), [scrum_board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Apaul-bokelman), [commits](https://github.com/paul-bokelman/m221/commits?author=paul-bokelman), [profile](https://github.com/paul-bokelman)
 
-Ishan Kapoor, iskapoor, [tasks](https://github.com/paul-bokelman/m221/issues/12), [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [commits](https://github.com/paul-bokelman/m221/graphs/contributors), [profile](https://github.com/iskapoor)
+Ishan Kapoor, iskapoor, [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3Aiskapoor), [scrum_board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Aiskapoor), [commits](https://github.com/paul-bokelman/m221/commits?author=iskapoor), [profile](https://github.com/iskapoor)
 
-Jagroop vij, LordRoop, [tasks](https://github.com/paul-bokelman/m221/issues/13), [scrum board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Alordroop), [commits](https://github.com/paul-bokelman/m221/commits?author=LordRoop), [profile](https://github.com/LordRoop)
+Jagroop vij, LordRoop, [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3ALordRoop), [scrum board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Alordroop), [commits](https://github.com/paul-bokelman/m221/commits?author=LordRoop), [profile](https://github.com/LordRoop)
 
-Samuel Mahjouri, iBraskyy, [tasks](https://github.com/paul-bokelman/m221/issues/15), [scrum board](https://github.com/paul-bokelman/m221/projects/1), [commits](https://github.com/paul-bokelman/m221/graphs/contributors), [profile](https://github.com/iBraskyy)
+Samuel Mahjouri, iBraskyy, [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3AiBraskyy), [scrum board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3AiBraskyy), [commits](https://github.com/paul-bokelman/m221/commits?author=iBraskyy), [profile](https://github.com/iBraskyy)
 
-Luca Pinto, lucap2527, [tasks](https://github.com/paul-bokelman/m221/issues/14), [scrum board](https://github.com/paul-bokelman/m221/projects/1), [commits](https://github.com/paul-bokelman/m221/graphs/contributors), [profile](https://github.com/lucap2527)
+Luca Pinto, lucap2527, [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3Alucap2527), [scrum board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Alucap2527), [commits](https://github.com/paul-bokelman/m221/commits?author=luca2527), [profile](https://github.com/lucap2527)
 
 
 # Summary
