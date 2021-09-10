@@ -4,8 +4,11 @@ Paul Bokelman, paul-bokelman, [tasks](https://github.com/paul-bokelman/m221/issu
 
 Ishan Kapoor, iskapoor, [tasks](https://github.com/paul-bokelman/m221/issues/12), [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [commits](https://github.com/paul-bokelman/m221/graphs/contributors), [profile](https://github.com/iskapoor)
 
-Jagroop vij, [LordRoop](https://github.com/LordRoop), [tasks](https://github.com/paul-bokelman/m221/issues/13), [scrum board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Alordroop), [commits](https://github.com/paul-bokelman/m221/commits?author=LordRoop)
+Jagroop vij, LordRoop, [tasks](https://github.com/paul-bokelman/m221/issues/13), [scrum board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Alordroop), [commits](https://github.com/paul-bokelman/m221/commits?author=LordRoop), [profile](https://github.com/LordRoop)
 
+Samuel Mahjouri, iBraskyy, [tasks](https://github.com/paul-bokelman/m221/issues/15), [scrum board](https://github.com/paul-bokelman/m221/projects/1), [commits](https://github.com/paul-bokelman/m221/graphs/contributors), [profile](https://github.com/iBraskyy)
+
+Luca Pinto, lucap2527, [tasks](https://github.com/paul-bokelman/m221/issues/14), [scrum board](https://github.com/paul-bokelman/m221/projects/1), [commits](https://github.com/paul-bokelman/m221/graphs/contributors), [profile](https://github.com/lucap2527)
 
 
 # Summary
