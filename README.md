@@ -1,6 +1,7 @@
 rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [contributors](https://github.com/paul-bokelman/m221/graphs/contributors)
 
 Paul Bokelman, paul-bokelman, [tasks](https://github.com/paul-bokelman/m221/issues/11), [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [commits](https://github.com/paul-bokelman/m221/graphs/contributors), [profile](https://github.com/paul-bokelman)
+
 Ishan Kapoor, iskapoor, [tasks](https://github.com/paul-bokelman/m221/issues/12), [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [commits](https://github.com/paul-bokelman/m221/graphs/contributors), [profile](https://github.com/iskapoor)
 
 
