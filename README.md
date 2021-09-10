@@ -2,7 +2,7 @@ rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokelman/m2
 
 Paul Bokelman, paul-bokelman, [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3Apaul-bokelman), [scrum_board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Apaul-bokelman), [commits](https://github.com/paul-bokelman/m221/commits?author=paul-bokelman), [profile](https://github.com/paul-bokelman)
 
-Ishan Kapoor, iskapoor, [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3Aiskapoor), [scrum_board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Aiskapoor), [commits](https://github.com/paul-bokelman/m221/commits?author=iskapoor), [profile](https://github.com/iskapoor)
+Ishan Kapoor, iskapoor, [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3Aiskapoor), [scrum_board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Aiskapoor), [commits](https://github.com/paul-bokelman/m221/commits?author=iskapoor) and [commits](https://github.com/paul-bokelman/m221/commits?author=Eshan21), [profile](https://github.com/iskapoor)
 
 Jagroop vij, LordRoop, [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3ALordRoop), [scrum board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Alordroop), [commits](https://github.com/paul-bokelman/m221/commits?author=LordRoop), [profile](https://github.com/LordRoop)
 
