@@ -78,12 +78,12 @@ Samuel Mahouri Self Grade: 5/5 - I completed test corrections on time and was ab
 </details>
 
 <details>
-<summary>Luca Pinto Total Grade: 8.5/10</summary>
+<summary>Luca Pinto Total Grade: /10</summary>
 <br>
 
-Luca Pinto Team Grade: 3.5/5 - Doesn't communicate with the group nor did he do anything for this week. Also makes me do his individual grading for him when it should be him taking care of it himself. After talking to the rest of the group they wanted me to give him a lower score. However, since he does boost team morale  I've decided to give him a very generous 3.5
+Luca Pinto Team Grade: /5 - 
 
-Luca Pinto Self Grade: /5 - Luca probably did do the Team corrections 
+Luca Pinto Self Grade: /5 -
 
 </details>
 
