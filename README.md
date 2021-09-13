@@ -64,51 +64,48 @@ Going to provide seniors from Del Norte a website that displays who is still in/
   
 </details>
   
-# Week 2 Grades
+# Week 3 Grades
 
 _Click on names to go to tickets to see tangibles_
 
-**[Video](https://www.youtube.com/watch?v=J5mrEDij27Y)**
-
 <details>
-<summary>Samuel Mahjouri Total Grade: 10/10</summary>
+<summary>Samuel Mahjouri Total Grade: 9.5/10</summary>
 <br>
 
-[Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 5/5 - Didn't complete all technical tangibles but I believe I was able to finally successfully coordinate our team which took a lot of effort.
+[Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 4.5/5 - While having done miminal code, I still had to work to coordinate my group members to work efficiently and manage their tasks each day. 
 
-Samuel Mahouri Self Grade: 5/5 - I also completed my minilab. I did both of my Test Corrections on time and my plan for the rest of the year is to bring my laptop into school.
+Samuel Mahouri Self Grade: 5/5 - I completed test corrections on time and was able to learn a fair understanding of thymeleaf.
+</details>
+
+<details>
+<summary>Luca Pinto Total Grade: 8.5/10</summary>
+<br>
+
+Luca Pinto Team Grade: 3.5/5 - Doesn't communicate with the group nor did he do anything for this week. Also makes me do his individual grading for him when it should be him taking care of it himself. After talking to the rest of the group they wanted me to give him a lower score. However, since he does boost team morale  I've decided to give him a very generous 3.5
+
+Luca Pinto Self Grade: /5 - Luca probably did do the Team corrections 
 
 </details>
 
 <details>
-<summary>Luca Pinto Total Grade: 9/10</summary>
+<summary>Jagroop Vij Total Grade: 10/10</summary>
 <br>
 
-Luca Pinto Team Grade: 4/5 - Didn't do his tangibles on time but still did them
+Jagroop Vij Team Grade: 5/5 - Did his assigned task of creating a grid. Also communicated effectively with the group which helped me manage the rest of our group.
 
-Luca Pinto Self Grade: 5/5 -
-
+Jagroop Vij Self Grade: /5 - 
+  
 </details>
 
 <details>
-<summary>Jagroop Vij Total Grade: 8/10</summary>
+<summary>Ishan Kapoor Total Grade: /10</summary>
 <br>
 
-Jagroop Vij Team Grade: 5/5 - Completed my [tickets](https://github.com/paul-bokelman/m221/issues/8)
+**Ishan Kapoor Total Grade: /10**
 
-Jagroop Vij Self Grade: 3/5 - I didn't complete my test corrections.
+Ishan Kapoor Team Grade: 4/5 - I cannot tell if he has completed his tasks or not. I assigned him the minilab which he put a check on his ticket for but I do not see a link to the code nor do I see anything in his commits regarding the minilab. However, he still made some changes but it was only to our readme.
 
-</details>
-
-<details>
-<summary>Ishan Kapoor Total Grade: 9/10</summary>
-<br>
-
-**Ishan Kapoor Total Grade: 9/10**
-
-Ishan Kapoor Team Grade: 5/5 - Completed his tangibles and [ticket](https://github.com/paul-bokelman/m221/issues/10)
-
-Ishan Kapoor Self Grade: 4/5 - I completed my test corrections but didn't communicate well that I have completed it so I took away one point
+Ishan Kapoor Self Grade: /5 - 
 
 </details>
 
@@ -116,8 +113,8 @@ Ishan Kapoor Self Grade: 4/5 - I completed my test corrections but didn't commun
 <summary>Paul Bokelman Total Grade: 10/10 </summary>
 <br>
 
-[Paul Bokelman Team Grade](https://github.com/paul-bokelman/m221/issues/9): 5/5 - Completed my tangibles on time.
-
+Paul Bokelman Team Grade: 5/5 - Completed his tangibles. Communicated effectively with the group. Great job!
+  
 Paul Bokelman Self Grade: 5/5 - I did everything on time but there was major communication issues.
 
 </details>
