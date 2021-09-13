@@ -80,12 +80,12 @@ Samuel Mahouri Self Grade: 5/5 - I completed test corrections on time and was ab
 </details>
 
 <details>
-<summary>Luca Pinto Total Grade: 9.25/10</summary>
+<summary>Luca Pinto Total Grade: 10/10</summary>
 <br>
 
-Luca Pinto Team Grade: 4.25/5 - While he did only create a video for this week, he did a fairly good job. Lastly, Luca makes me update his information for him which I shouldn't have to do since it's his own self grade
+Luca Pinto Team Grade: 5/5 - Created video showing the progress of the group, did individual work and helped with navbar/thymeleaf work
 
-Luca Pinto Self Grade: 5/5 - Luca probably did his test corrections
+Luca Pinto Self Grade: 5/5 - Link to notes and test corrections (https://docs.google.com/document/d/1o6jel5V2YsOTTnGLbwFYh2T1PtHx-hJ2KlFS8i6V_qs/edit?usp=sharing)
 
 </details>
 
