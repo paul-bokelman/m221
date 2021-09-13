@@ -103,9 +103,9 @@ Jagroop Vij Self Grade: /5 -
 
 **Ishan Kapoor Total Grade: /10**
 
-Ishan Kapoor Team Grade: 4/5 - I cannot tell if he has completed his tasks or not. I assigned him the minilab which he put a check on his ticket for but I do not see a link to the code nor do I see anything in his commits regarding the minilab. However, he still made some changes but it was only to our readme.
+Ishan Kapoor Team Grade: 4.5/5 - I cannot tell if he has completed his tasks or not. I assigned him the minilab which he put a check on his ticket for but I do not see a link to the code nor do I see anything in his commits regarding the minilab. However, he still made some changes but it was only to our readme.
 
-Ishan Kapoor Self Grade: /5 - 
+Ishan Kapoor Self Grade: 4.5/5 - I completed everything on time, but was unable to communicate that to the group because my MMS messaging service isn't working on my phone. I will try to get our team on Slack more to be able to communicate more effectively moving forward.
 
 </details>
 
