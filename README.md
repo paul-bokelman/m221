@@ -68,7 +68,7 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 _Click on names to go to tickets to see tangibles_
 
-[video](https://www.youtube.com/watch?v=riCSxnGcfFw)
+[Video Showing Current Project Progress](https://www.youtube.com/watch?v=riCSxnGcfFw)
 
 <details>
 <summary>Samuel Mahjouri Total Grade: 9.5/10</summary>
