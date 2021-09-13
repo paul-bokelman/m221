@@ -80,10 +80,10 @@ Samuel Mahouri Self Grade: 5/5 - I completed test corrections on time and was ab
 </details>
 
 <details>
-<summary>Luca Pinto Total Grade: 9/10</summary>
+<summary>Luca Pinto Total Grade: 9.25/10</summary>
 <br>
 
-Luca Pinto Team Grade: 4.5/5 - While he did only create a video for this week, he did a fairly good job. Lastly, Luca makes me update his information for him which I shouldn't have to do since it's his own self grade
+Luca Pinto Team Grade: 4.25/5 - While he did only create a video for this week, he did a fairly good job. Lastly, Luca makes me update his information for him which I shouldn't have to do since it's his own self grade
 
 Luca Pinto Self Grade: 5/5 - Luca probably did his test corrections
 
@@ -100,7 +100,7 @@ Jagroop Vij Self Grade: 5/5 - Completed test and [test corrections](https://docs
 </details>
 
 <details>
-<summary>Ishan Kapoor Total Grade: 9.54/10</summary>
+<summary>Ishan Kapoor Total Grade: 9.5/10</summary>
 <br>
 
 **Ishan Kapoor Total Grade: 9.5/10**
