@@ -115,6 +115,6 @@ Ishan Kapoor Self Grade: /5 -
 
 Paul Bokelman Team Grade: 5/5 - Completed his tangibles. Communicated effectively with the group. Great job!
   
-Paul Bokelman Self Grade: 5/5 - I did everything on time but there was major communication issues.
+Paul Bokelman Self Grade: 5/5 - I did everything on time
 
 </details>
