@@ -44,8 +44,6 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 [Luca Pinto Journal](https://docs.google.com/document/d/1o6jel5V2YsOTTnGLbwFYh2T1PtHx-hJ2KlFS8i6V_qs/edit?usp=sharing)
 
-[Luca's Ticket of the Week](https://github.com/paul-bokelman/m221/issues/10)
-  
 </details>
 
 <details>
