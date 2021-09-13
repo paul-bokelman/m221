@@ -8,3 +8,22 @@
     ". . ."
     ". . .";
 }
+
+.h-background {
+  background: #ff7e7e;
+}
+
+.d-background {
+  background: #ffba7e;
+}
+.a-background {
+  background: #afff7e;
+}
+
+nav a {
+  color: red;
+}
+
+.btn {
+  background-color: purple !important;
+}
