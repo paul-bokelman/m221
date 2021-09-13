@@ -91,9 +91,9 @@ Luca Pinto Self Grade: /5 -
 <summary>Jagroop Vij Total Grade: 10/10</summary>
 <br>
 
-Jagroop Vij Team Grade: 5/5 - Did his assigned task of creating a grid. Also communicated effectively with the group which helped me manage the rest of our group.
+Jagroop Vij Team Grade: 5/5 - Did his [assigned task](https://github.com/paul-bokelman/m221/issues/13) of creating a grid. Also communicated effectively with the group which helped me manage the rest of our group.
 
-Jagroop Vij Self Grade: /5 - 
+Jagroop Vij Self Grade: 5/5 - Completed test and [test corrections]() on time.
   
 </details>
 
