@@ -10,14 +10,17 @@
 }
 
 .h-background {
-  background: #ff7e7e;
+  background: #cffffd;
 }
 
 .d-background {
-  background: #ffba7e;
+  background: #ffd8b4;
 }
 .a-background {
-  background: #afff7e;
+  background: #d1ffb9;
+}
+.j-background {
+  background: #ffc19f;
 }
 
 nav a {
