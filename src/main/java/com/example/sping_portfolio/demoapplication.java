@@ -19,6 +19,7 @@ public class demoapplication {
     public static void main(String[] args) {
         SpringApplication.run(demoapplication.class, args);
     }
+
     @GetMapping
     public List<Student> hello() {
         return List.of(
@@ -30,3 +31,5 @@ public class demoapplication {
                         21
                 )
         );
+    }
+}
