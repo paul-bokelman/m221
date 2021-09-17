@@ -6,6 +6,6 @@ public class Sam {
     @GetMapping("/sam")
     // CONTROLLER handles GET request for /greeting, maps it to greeting() and does variable bindings
     public String page() {
-        return "sam"; // returns HTML VIEW (greeting)
+        return "minilab2"; // returns HTML VIEW (greeting)
     }
 }
