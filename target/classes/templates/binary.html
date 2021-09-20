@@ -14,27 +14,28 @@
   </head>
 
   <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
-
-  <script th:inline="javascript">
-    let showtext = "[[${bits}]]";
-    console.log(showtext);
-  </script>
-
-  <body th:inline="javascript">
+  <body>
+    <div layout:fragment="content" th:remove="tag">
+      <!-- End of body content specific to page -->
+    </div>
+  </body>
 
   <!-- Hack 1: variable bits and variables for IMAGE_ON/IMAGE_OFF should come from backend Model -->
-  <!-- Hack 2: have input to allow user to customize bits, 8 or 24 are key for remainder -->
+  <!-- // Hack 2: have input to allow user to customize bits, 8 or 24 are key for remainder -->
   <!-- Hack 3: add a character display to text when 8 bits, determine if printable or not printable -->
   <!-- Hack 4: add a color code and display color when 24 bits, think about display on this one -->
   <!-- Hack 5: do your own thing -->
   <!-- Hack 6: fix all warnings -->
 
   <!-- <head> -->
+  <script>
+    let showtext = "[[${bits}]]";
+    console.log(showtext);
+  </script>
 
-
-  <div layout:fragment="metadata" th:remove="tag">
+  <div layout:fragment="metadata" th:with="bits=6" th:remove="tag">
     <title>Binary Minilab | Senior Assassins 2022</title>
-    <script th:inline="javascript">
+    <script>
       const BITS = [[${bits}]];
       const MAX = 2 ** BITS - 1;
       const MSG_ON = "Turn on";
@@ -130,7 +131,7 @@
   <!-- </head> -->
 
   <!-- <body> -->
-  <div layout:fragment="content" th:remove="tag">
+  <div layout:fragment="content" th:with="bits=6" th:remove="tag">
     <h1 class="text-center">Binary Math with Conversions</h1>
     <div class="container">
       <div class="row justify-content-md-center">
@@ -179,5 +180,5 @@
       </div>
     </div>
   </div>
-  </body>
+
 </html>

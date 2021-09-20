@@ -1,3 +1,4 @@
+/*
 package com.example.sping_portfolio;
 
 import lombok.Getter
@@ -325,4 +326,4 @@ public class ImageInfo {
         return im_string.toString();
     }
 
-}
+}*/
