@@ -64,59 +64,58 @@ Going to provide seniors from Del Norte a website that displays who is still in/
   
 </details>
   
-# Week 3 Grades
+# Week 4 Grades
 
 _Click on names to go to tickets to see tangibles_
 
 [Video Showing Current Project Progress](https://www.youtube.com/watch?v=riCSxnGcfFw)
 
 <details>
-<summary>Samuel Mahjouri Total Grade: 9.5/10</summary>
+<summary>Samuel Mahjouri Total Grade: 8/10</summary>
 <br>
 
-[Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 4.5/5 - While having done miminal code, I still had to work to coordinate my group members to work efficiently and manage their tasks each day. 
+[Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 4/5 - I facilitated all tasks for this week and assisted Paul
 
-Samuel Mahouri Self Grade: 5/5 - I completed test corrections on time and was able to learn a fair understanding of thymeleaf.
+Samuel Mahouri Self Grade: 4/5 - completed everything I needed to complete for self grading
 </details>
 
 <details>
-<summary>Luca Pinto Total Grade: 10/10</summary>
+<summary>Luca Pinto Total Grade: 0/10</summary>
 <br>
 
-Luca Pinto Team Grade: 5/5 - Created video showing the progress of the group, did individual work and helped with navbar/thymeleaf work
+Luca Pinto Team Grade: 5/5
 
-Luca Pinto Self Grade: 5/5 - Link to notes and test corrections (https://docs.google.com/document/d/1o6jel5V2YsOTTnGLbwFYh2T1PtHx-hJ2KlFS8i6V_qs/edit?usp=sharing)
+Luca Pinto Self Grade: 5/5
 
 </details>
 
 <details>
-<summary>Jagroop Vij Total Grade: 10/10</summary>
+<summary>Jagroop Vij Total Grade: 0/10</summary>
 <br>
 
-Jagroop Vij Team Grade: 5/5 - Did his [assigned task](https://github.com/paul-bokelman/m221/issues/13) of creating a grid. Also communicated effectively with the group which helped me manage the rest of our group.
+Jagroop Vij Team Grade: 0/5
 
-Jagroop Vij Self Grade: 5/5 - Completed test and [test corrections](https://docs.google.com/document/d/12f2nG4M4su0gwInA_f9Fdr0uTwKKLXc-QhgKndI33x8/edit) on time.
-  
+Jagroop Vij Self Grade: 0/5
 </details>
 
 <details>
-<summary>Ishan Kapoor Total Grade: 9.5/10</summary>
+<summary>Ishan Kapoor Total Grade: 0/10</summary>
 <br>
 
 **Ishan Kapoor Total Grade: 9.5/10**
 
-Ishan Kapoor Team Grade: 5/5 - He did complete his tasks. I must say though that Ishaan has been having difficulty communicating which leads to uncertainty within the group.
+Ishan Kapoor Team Grade: 0/5
   
-Ishan Kapoor Self Grade: 4.5/5 - I completed everything on time, but was unable to communicate that to the group because my MMS messaging service isn't working on my phone. I will try to get our team on Slack more to be able to communicate more effectively moving forward.
+Ishan Kapoor Self Grade: 0/5
 
 </details>
 
 <details>
-<summary>Paul Bokelman Total Grade: 10/10 </summary>
+<summary>Paul Bokelman Total Grade: 11/10 </summary>
 <br>
 
-Paul Bokelman Team Grade: 5/5 - Completed his tangibles. Communicated effectively with the group. Great job!
+Paul Bokelman Team Grade: 6/5 - Completed all tasks - [ticket](https://github.com/paul-bokelman/m221/issues/29)
   
-Paul Bokelman Self Grade: 5/5 - I did everything on time
+Paul Bokelman Self Grade: 5/5 - Completed everything for solo work
 
 </details>
