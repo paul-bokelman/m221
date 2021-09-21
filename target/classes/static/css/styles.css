@@ -1,32 +1,140 @@
-.card-grid {
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
+
+body {
+  font-family: "Crimson Text", serif;
+  background: #efe3d8;
+  padding: 30px 50px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  width: 100%;
+}
+
+nav li:first-child {
+  float: left;
+}
+
+nav li:last-child {
+  float: right;
+}
+
+nav li a img {
+  width: 40%;
+  transform: scaleX(-1);
+}
+
+nav li a {
+  font-size: 1.2rem;
+  font-weight: 700;
+  display: block;
+  color: #ad937c;
+  text-align: center;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  color: #815e3d;
+  text-decoration: none;
+}
+
+.landing-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+.img-container {
+  z-index: -100;
+  height: 8rem;
+  width: 21rem;
+  position: absolute;
+}
+
+.landing-content .img-container img {
+  width: 20%;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.landing-content h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #815e3d;
+  margin-bottom: -0.3rem;
+}
+
+.landing-content .secondary-text {
+  width: 17rem;
+}
+
+.landing-content a {
+  display: inline;
+  color: #ad937c;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.landing-content a:hover {
+  color: #815e3d;
+  transition: ease-in-out 0.1s;
+}
+
+.landing-content a:first-child {
+  float: left;
+}
+
+.landing-content a:last-child {
+  float: right;
+}
+
+.team-container {
+  align-items: center;
+  text-align: center;
+  height: 90vh;
   display: grid;
-  grid-template-columns: 0.5fr 0.5fr 0.5fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 50px 50px;
-  grid-template-areas:
-    ". . ."
-    ". . ."
-    ". . .";
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
 }
 
-.h-background {
-  background: #cffffd;
+.team-container a {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #ad937c;
+  margin-bottom: 0.5rem;
 }
 
-.d-background {
-  background: #ffd8b4;
-}
-.a-background {
-  background: #d1ffb9;
-}
-.j-background {
-  background: #ffc19f;
+.team-container a:hover {
+  color: #815e3d;
 }
 
-nav a {
-  color: red;
+.teamtask-container {
+  align-items: center;
+  text-align: center;
+  height: 90vh;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
 }
 
-.btn {
-  background-color: purple !important;
+.teamtask-container a {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #ad937c;
+  margin-bottom: 0.5rem;
+}
+
+.teamtask-container a:hover {
+  color: #815e3d;
 }
