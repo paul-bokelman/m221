@@ -89,23 +89,23 @@ Luca Pinto Team Grade: 5/5 - You can find my completed video in the about us of 
 </details>
 
 <details>
-<summary>Jagroop Vij Total Grade: 0/10</summary>
+<summary>Jagroop Vij Total Grade: 8/10</summary>
 <br>
 
-Jagroop Vij Team Grade: 0/5
+Jagroop Vij Team Grade: 3/5 Completed collaborative [Ticket](https://github.com/paul-bokelman/m221/issues/18) with Ishan. Communication disconnect with the rest of the team caused issues.
 
-Jagroop Vij Self Grade: 0/5
+Jagroop Vij Self Grade: 4/5 Completed Unit task slightly late
 </details>
 
 <details>
-<summary>Ishan Kapoor Total Grade: 0/10</summary>
+<summary>Ishan Kapoor Total Grade: 9/10</summary>
 <br>
 
 **Ishan Kapoor Total Grade: 9.5/10**
 
-Ishan Kapoor Team Grade: 0/5
+Ishan Kapoor Team Grade: 4/5 Completed collaborative [Ticket](https://github.com/paul-bokelman/m221/issues/18) with Roop. Communication disconnect with the rest of the team caused issues.
   
-Ishan Kapoor Self Grade: 0/5
+Ishan Kapoor Self Grade: 5/5 Completed tasks
 
 </details>
 
