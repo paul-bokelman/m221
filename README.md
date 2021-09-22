@@ -85,7 +85,7 @@ Samuel Mahouri Self Grade: 5/5 - completed everything I needed to complete for s
 <br>
 Luca Pinto Self Grade: 5/5 - Completed Notes, Self grade, Unit tests and corrections
 <br>
-Luca Pinto Team Grade: 4/5 - You can find my completed video in the read me link above, this shows the basic progress of the video and is updated over time each week
+Luca Pinto Team Grade: 4.5/5 - You can find my completed video in the read me link above, this shows the basic progress of the video and is updated over time each week
 </details>
 
 <details>
