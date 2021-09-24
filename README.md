@@ -71,7 +71,7 @@ _Click on names to go to tickets to see tangibles_
 [Video Showing Current Project Progress](https://www.youtube.com/watch?v=riCSxnGcfFw)
 
 <details>
-<summary>Samuel Mahjouri Total Grade: 9.5/10</summary>
+<summary>Samuel Mahjouri Total Grade: 9/10</summary>
 <br>
 
 [Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 4/5 - I facilitated all tasks for this week and assisted Paul
@@ -80,7 +80,7 @@ Samuel Mahouri Self Grade: 5/5 - completed everything I needed to complete for s
 </details>
 
 <details>
-<summary>Luca Pinto Total Grade: 9.5/10</summary>
+<summary>Luca Pinto Total Grade: 9/10</summary>
   
 <br>
 Luca Pinto Self Grade: 5/5 - Completed Notes, Self grade, Unit tests and corrections
@@ -89,7 +89,7 @@ Luca Pinto Team Grade: 4.5/5 - You can find my completed video in the read me li
 </details>
 
 <details>
-<summary>Jagroop Vij Total Grade: 8.5/10</summary>
+<summary>Jagroop Vij Total Grade: 9/10</summary>
 <br>
 
 Jagroop Vij Team Grade: 4.5/5 Completed collaborative [Ticket](https://github.com/paul-bokelman/m221/issues/18) with Ishan. Communication disconnect with the rest of the team caused issues.
@@ -98,7 +98,7 @@ Jagroop Vij Self Grade: 4/5 Completed Unit task slightly late
 </details>
 
 <details>
-<summary>Ishan Kapoor Total Grade: 9.5/10</summary>
+<summary>Ishan Kapoor Total Grade: 9/10</summary>
 <br>
 
 
