@@ -71,7 +71,7 @@ _Click on names to go to tickets to see tangibles_
 [Video Showing Current Project Progress](https://www.youtube.com/watch?v=riCSxnGcfFw)
 
 <details>
-<summary>Samuel Mahjouri Total Grade: 9/10</summary>
+<summary>Samuel Mahjouri Total Grade: 9.5/10</summary>
 <br>
 
 [Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 4/5 - I facilitated all tasks for this week and assisted Paul
