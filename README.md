@@ -22,9 +22,9 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 <summary>Samuel's Permalinks</summary>
 <br>
 
-[Sam's Test Corrections](https://docs.google.com/document/d/1J4m888ltQZlV-p-JNlWyx65KKhqEcEW78RdUCDcRjAw/edit?usp=sharing)
+[Sam's Test Corrections Journal](https://docs.google.com/document/d/1J4m888ltQZlV-p-JNlWyx65KKhqEcEW78RdUCDcRjAw/edit?usp=sharing)
 
-[Sam's Tech Talk Notes](https://docs.google.com/document/d/13WPnSnMtUL4bnp5dOZ6WDeoVuI1OcW0uZbBc3tLvT2U/edit?usp=sharing)
+[Sam's Tech Talk Notes Journal](https://docs.google.com/document/d/13WPnSnMtUL4bnp5dOZ6WDeoVuI1OcW0uZbBc3tLvT2U/edit?usp=sharing)
 
 </details>
 
