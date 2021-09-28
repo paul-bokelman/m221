@@ -138,3 +138,30 @@ nav li a:hover {
 .teamtask-container a:hover {
   color: #815e3d;
 }
+
+#Leaderboard {
+  width: 500px;
+  margin: 10px
+}
+
+.leaderboardol {
+  color: #ccc;
+  list-style-type: none;
+}
+
+.leaderboardlist {
+  position: relative;
+  font: bold italic 45px/1.5 Helvetica, Verdana, sans-serif;
+  margin-bottom: 20px;
+}
+
+.leaderboardcontent {
+  font: 12px/1.5 Helvetica, sans-serif;
+  padding-left: 59px;
+  color: #555;
+}
+
+.Leaderboardnumbers {
+  position: absolute;
+}
+
