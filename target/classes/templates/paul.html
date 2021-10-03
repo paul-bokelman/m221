@@ -1,0 +1,35 @@
+<!-- This page is illustrative and contains ideas about HTML formatting -->
+<!DOCTYPE html>
+<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+<html
+  xmlns:layout="http://www.w3.org/1999/xhtml"
+  xmlns:th="http://www.w3.org/1999/xhtml"
+  layout:decorate="~{layout}"
+  lang="en"
+>
+  <head>
+    <div layout:fragment="metadata" th:remove="tag">
+      <title>Senior Assassins 2022</title>
+    </div>
+  </head>
+
+  <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+  <body>
+    <div layout:fragment="content" th:remove="tag">
+      <!-- Start of body content specific to page -->
+      <div id="spring_intro" class="articles" style="margin: 30px">
+        <h1><strong>Paul</strong></h1>
+        <b>MINI LAB</b>
+        <div>
+          <p>Multiply two numbers (2,3): <span th:text="${data[0]}">1</span></p>
+        </div>
+        <div>
+          <p>
+            Multiply three numbers (1,9,4): <span th:text="${data[1]}">1</span>
+          </p>
+        </div>
+      </div>
+      <!-- End of body content specific to page -->
+    </div>
+  </body>
+</html>
