@@ -1,10 +1,11 @@
 package com.example.sping_portfolio.unit7;
 
 public class modelimprovements {
-    String prefix = "../../../resources/static/images/";
-    String[] arr = {"image1","image2","image3","image4"};
+    String prefix = "../../../resources/static/unit7/";
+    String[] arr = {"ishaan.HEIC","justlin.HEIC","lucapinto.HEIC","mort.HEIC","paulbok.HEIC","rohankos.HEIC","roop.HEIC","ryanmog.HEIC","sammahj.HEIC","yeongjoong.HEIC"};
 
     public class image_info {
+
 
     }
 
