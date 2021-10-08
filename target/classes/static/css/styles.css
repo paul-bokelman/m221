@@ -107,15 +107,22 @@ nav li a:hover {
   grid-row-gap: 0px;
 }
 
-.team-container a {
+.team-container div a {
+  display: flex;
+  flex-direction: column;
   font-size: 1.5rem;
   font-weight: 700;
   color: #ad937c;
   margin-bottom: 0.5rem;
 }
 
-.team-container a:hover {
+
+.team-container div a:hover {
   color: #815e3d;
+}
+
+.team-container div img {
+  border: #815e3d;
 }
 
 .teamtask-container {
@@ -138,4 +145,34 @@ nav li a:hover {
 .teamtask-container a:hover {
   color: #815e3d;
 }
+
+#Leaderboard {
+  width: 500px;
+  margin: 10px
+}
+
+.leaderboardol {
+  color: #ccc;
+  list-style-type: none;
+}
+
+.leaderboardlist {
+  position: relative;
+  font: bold italic 45px/1.5 Helvetica, Verdana, sans-serif;
+  margin-bottom: 20px;
+}
+
+.leaderboardcontent {
+  font: 12px/1.5 Helvetica, sans-serif;
+  padding-left: 59px;
+  color: #555;
+}
+
+.Leaderboardnumbers {
+  position: absolute;
+}
+
+
+
+
 
