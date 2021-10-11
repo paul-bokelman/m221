@@ -10,7 +10,7 @@ public class Alive {
 
 
     public String page(Model model) {
-        String[] arr = {"ishaan.HEIC","justlin.HEIC","lucapinto.HEIC","mort.HEIC","paulbok.HEIC","rohankos.HEIC","roop.HEIC","ryanmog.HEIC","sammahj.HEIC","yeongjoong.HEIC"};
+            String[] arr = {"images/ishaan.jpg","images/justinli.jpg","images/lucapinto.jpg","images/mort.jpg","images/paulbok.jpg","images/rohankos.jpg","images/roop.jpg","images/rynamog.jpg","images/sammahj.jpg","images/yeongjoong.jpg"};
         model.addAttribute("arr", arr);
 
         return "alive"; // returns HTML VIEW (greeting)

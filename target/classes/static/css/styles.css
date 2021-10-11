@@ -6,6 +6,17 @@ body {
   padding: 30px 50px;
 }
 
+.card-grid {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr 0.5fr;
+  grid-auto-rows: 1fr 1fr;
+  gap: 50px 50px;
+  grid-template-areas:
+  ". . ."
+  ". . ."
+  ". . .";
+}
+
 nav ul {
   list-style-type: none;
   margin: 0;
