@@ -17,5 +17,7 @@ public class Factorial {
 
     public static void main(String[] args) {
         System.out.println(Factorial.factorial_loop(5));
+        System.out.println(Factorial.factorial_recursion(5));
+
     }
 }
