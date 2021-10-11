@@ -12,7 +12,7 @@ import javax.imageio.ImageIO;
 
     public class GrayScale {
         String prefix = "../../../resources/static/unit7/";
-        String[] arr = {"ishaan.HEIC","justlin.HEIC","lucapinto.HEIC","mort.HEIC","paulbok.HEIC","rohankos.HEIC","roop.HEIC","ryanmog.HEIC","sammahj.HEIC","yeongjoong.HEIC"};
+        String[] arr = {"ishaan.jpg","justlin.jpg","lucapinto.jpg","mort.jpg","paulbok.jpg","rohankos.jpg","roop.jpg","ryanmog.jpg","sammahj.jpg","yeongjoong.jpg"};
 
         BufferedImage  image;
         int width;
