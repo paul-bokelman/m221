@@ -42,7 +42,7 @@ import javax.imageio.ImageIO;
                 }
 
                 File output = new File(outputName);
-                ImageIO.write(image, "jpg", output);
+                ImageIO.write(image, "png", output);
 
             } catch (Exception e) {
                 System.out.println("error with grayscale!");
