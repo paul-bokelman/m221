@@ -11,7 +11,6 @@ public class RedImage
         BufferedImage img = null;
         File f = null;
 
-        // read image
         try
         {
             f = new File("C:\\Users\\pinto\\IdeaProjects\\m221\\src\\main\\resources\\static\\images\\ishaan.jpg");
