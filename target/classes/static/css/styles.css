@@ -14,7 +14,8 @@ body {
   grid-template-areas:
   ". . ."
   ". . ."
-  ". . .";
+  ". . ."
+  ".    ";
 }
 
 nav ul {
