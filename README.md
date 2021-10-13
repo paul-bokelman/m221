@@ -1,5 +1,4 @@
-# [Link to Week 7 Review Ticket](https://github.com/paul-bokelman/m221/issues/38)
-# [Link to Week 7 Video](https://www.youtube.com/watch?v=sEizB_f9Ddg)
+
 
 Team: rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [contributors](https://github.com/paul-bokelman/m221/graphs/contributors), [PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing)
 
@@ -69,56 +68,18 @@ Going to provide seniors from Del Norte a website that displays who is still in/
   
 </details>
   
-# Week 5 Grades
+# Unit 7 
 
-_Click on names to go to tickets to see tangibles_
+[Link to Week 7 Review Ticket](https://github.com/paul-bokelman/m221/issues/38)
 
-[Video Showing Current Project Progress](https://www.youtube.com/watch?v=riCSxnGcfFw)
+[Link to Week 7 Video](https://www.youtube.com/watch?v=sEizB_f9Ddg)
 
-<details>
-<summary>Samuel Mahjouri Total Grade: 10/10</summary>
-<br>
+[View/Frontend Ticket](https://github.com/paul-bokelman/m221/issues/37)
 
-[Samuel Mahjouri Team Grade](https://github.com/paul-bokelman/m221/issues/7): 5/5 - I facilitated all tasks for this week and assisted Paul
+[Model Improvements Ticket](https://github.com/paul-bokelman/m221/issues/35)
 
-Samuel Mahouri Self Grade: 5/5 - completed everything I needed to complete for self grading
-</details>
-
-<details>
-<summary>Luca Pinto Total Grade: 10/10</summary>
-  
-<br>
-Luca Pinto Self Grade: 5/5 - Completed Notes, Self grade, Unit tests and corrections
-<br>
-Luca Pinto Team Grade: 5/5 - You can find my completed video in the read me link above, this shows the basic progress of the video and is updated over time each week
-</details>
-
-<details>
-<summary>Jagroop Vij Total Grade: 10/10</summary>
-<br>
-
-Jagroop Vij Team Grade: 5/5 Completed collaborative [Ticket](https://github.com/paul-bokelman/m221/issues/18) with Ishan. Communication disconnect with the rest of the team caused issues.
-
-Jagroop Vij Self Grade: 5/5 Completed Unit task slightly late
-</details>
-
-<details>
-<summary>Ishan Kapoor Total Grade: 10/10</summary>
-<br>
+[Control Improvement Ticket](https://github.com/paul-bokelman/m221/issues/36)
 
 
-Ishan Kapoor Team Grade: 5/5 Completed collaborative [Ticket](https://github.com/paul-bokelman/m221/issues/18) with Roop. Communication disconnect with the rest of the team caused issues.
-  
-Ishan Kapoor Self Grade: 5/5 Completed tasks
-
-</details>
-
-<details>
-<summary>Paul Bokelman Total Grade: 10/10 </summary>
-<br>
-
-Paul Bokelman Team Grade: 5/5 - Completed all tasks - [ticket](https://github.com/paul-bokelman/m221/issues/29)
-  
-Paul Bokelman Self Grade: 5/5 - Completed everything for solo work
 
 </details>
