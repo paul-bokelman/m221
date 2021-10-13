@@ -16,6 +16,8 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 # Team
 
+[Week 7 Review Ticket](https://github.com/paul-bokelman/m221/issues/38)
+
 [PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing) - This is where the weekly plans and progress for our project are recorded.
 
 <details>
