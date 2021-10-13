@@ -1,5 +1,5 @@
 # [Link to Week 7 Review Ticket](https://github.com/paul-bokelman/m221/issues/38)
-
+# [Link to Week 7 Video](https://github.com/paul-bokelman/m221/issues/38)
 
 Team: rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [contributors](https://github.com/paul-bokelman/m221/graphs/contributors), [PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing)
 
