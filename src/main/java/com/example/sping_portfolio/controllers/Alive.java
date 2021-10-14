@@ -14,7 +14,7 @@ public class Alive {
 
     public String page(Model model) {
         String[] names = {"Ishan", "Justin", "Luca", "Mort MORT MORT!", "Paul", "Rohan", "Roop", "Ryan", "Sammy", "Yeonjoon"};
-        String[] arr = {"images/ishaan.png","images/justinli.png","images/lucapinto.png","images/mort.png","images/paulbok.png","images/rohankos.png","images/roop.png","images/rynamog.png","images/sammahj.png","images/yeongjoong.png"};
+        String[] arr = {"images/ishaanreal.png","images/justinli.png","images/lucapinto.png","images/mort.png","images/paulbok.png","images/rohankos.png","images/roopreal.png","images/rynamog.png","images/sammahj.png","images/yeongjoong.png"};
         String[] dead = {"Ishan", "Luca"}; // any names in this list that match those in the names[] array will be grayscaled with sam's file
 
         // checks for any strings in the dead[] array that match the names[] array and applies the grayscale function to their pictures in arr[]
