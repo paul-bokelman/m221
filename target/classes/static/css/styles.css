@@ -12,10 +12,10 @@ body {
   grid-auto-rows: 1fr 1fr;
   gap: 50px 50px;
   grid-template-areas:
-  ". . ."
-  ". . ."
-  ". . ."
-  ".    ";
+    ". . ."
+    ". . ."
+    ". . ."
+    ".    ";
 }
 
 nav ul {
@@ -128,7 +128,6 @@ nav li a:hover {
   margin-bottom: 0.5rem;
 }
 
-
 .team-container div a:hover {
   color: #815e3d;
 }
@@ -160,7 +159,7 @@ nav li a:hover {
 
 #Leaderboard {
   width: 500px;
-  margin: 10px
+  margin: 10px;
 }
 
 .leaderboardol {
@@ -184,7 +183,7 @@ nav li a:hover {
   position: absolute;
 }
 
-
-
-
-
+.grayscale {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}

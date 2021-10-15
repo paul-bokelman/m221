@@ -2,42 +2,58 @@
 <!DOCTYPE html>
 <!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
 <html
-        xmlns:layout="http://www.w3.org/1999/xhtml"
-        xmlns:th="http://www.w3.org/1999/xhtml"
-        layout:decorate="~{layout}"
-        lang="en"
+  xmlns:layout="http://www.w3.org/1999/xhtml"
+  xmlns:th="http://www.w3.org/1999/xhtml"
+  layout:decorate="~{layout}"
+  lang="en"
 >
-<head>
-  <div layout:fragment="metadata" th:remove="tag">
-    <title>Senior Assassins 2022</title>
-  </div>
-</head>
+  <head>
+    <div layout:fragment="metadata" th:remove="tag">
+      <title>Senior Assassins 2022</title>
+    </div>
+  </head>
 
-<!-- layout::fragment="content" is heart of ThymeLeaf layout -->
-<body class="a-background">
-<div layout:fragment="content" th:remove="tag">
-  <!-- Start of body content specific to page -->
-  <div id="spring_intro" class="articles" style="margin: 30px">
-    <h1><strong>Players</strong></h1>
-  </div>
-  <div class="card-grid">
-    <div th:each="i : ${#numbers.sequence( 1, 10, 1)}">
-      <div>
-        <div class="card" style="width: 18rem">
-          <img
-                  class="card-img-top"
-                  data-src="holder.js/100px180/"
-                  alt="100%x180"
-                  style="height: 180px; width: 100%; display: block"
-                  th:src="${arr[i-1]}"
-                  data-holder-rendered="true"
-          />
-          <div class="card-body">
-            <h5 class="card-title">${names[i-1]}</h5>
-            <a id="output" href="" class="btn btn-primary">Assassin stats</a>
+  <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+  <body class="a-background">
+    <div layout:fragment="content" th:remove="tag">
+      <!-- Start of body content specific to page -->
+      <div id="spring_intro" class="articles" style="margin: 30px">
+        <h1><strong>Players</strong></h1>
+      </div>
+      <div class="card-grid">
+        <div th:each="i : ${#numbers.sequence( 1, 10, 1)}">
+          <div>
+            <div class="card" style="width: 18rem">
+              <div class="card-body">
+
+              <img
+                th:if="${dead[i-1]}"
+                class="card-img-top grayscale"
+                data-src="holder.js/100px180/"
+                alt="100%x180"
+                style="height: 180px; width: 100%; display: block"
+                th:src="${arr[i-1]}"
+                data-holder-rendered="true"
+              />
+              <img
+                th:if="${!dead[i-1]}"
+                class="card-img-top"
+                data-src="holder.js/100px180/"
+                alt="100%x180"
+                style="height: 180px; width: 100%; display: block"
+                th:src="${arr[i-1]}"
+                data-holder-rendered="true"
+              />
+              <div class="card-body">
+                <h5 class="card-title" th:text="${names[i-1]}">text</h5>
+                <a id="output" href="" class="btn btn-primary"
+                  >Assassin stats</a
+                >
+              </div>
+            </div>
           </div>
-          </div>
+        </div>
       </div>
     </div>
-  </div>
-</div>
+  </body>
+</html>
