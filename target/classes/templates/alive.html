@@ -25,30 +25,35 @@
           <div>
             <div class="card" style="width: 18rem">
               <div class="card-body">
-
-              <img
-                th:if="${dead[i-1]}"
-                class="card-img-top grayscale"
-                data-src="holder.js/100px180/"
-                alt="100%x180"
-                style="height: 180px; width: 100%; display: block"
-                th:src="${arr[i-1]}"
-                data-holder-rendered="true"
-              />
-              <img
-                th:if="${!dead[i-1]}"
+            <img
+            th:id="'regular' + ${i}"
                 class="card-img-top"
                 data-src="holder.js/100px180/"
                 alt="100%x180"
                 style="height: 180px; width: 100%; display: block"
-                th:src="${arr[i-1]}"
+                th:src="${'/images/grayscale/gen/' + names[i-1][1] + '.png'}"
                 data-holder-rendered="true"
               />
+
+              <img
+              th:id="'grayscale' + ${i}"
+              class="card-img-top display-none"
+              data-src="holder.js/100px180/"
+              alt="100%x180"
+              style="height: 180px; width: 100%; display: block"
+              th:src="${'/images/grayscale/res/' + names[i-1][1] + '.png'}"
+              data-holder-rendered="true"
+            />
+
               <div class="card-body">
-                <h5 class="card-title" th:text="${names[i-1]}">text</h5>
+                <h5 class="card-title" th:text="${names[i-1][0]}">text</h5>
                 <a id="output" href="" class="btn btn-primary"
                   >Assassin stats</a
                 >
+                <button th:attr="onclick=|toggle('${i}')|"  class="btn btn-primary"
+                >Toggle</
+              >
+                
               </div>
             </div>
           </div>
@@ -57,3 +62,17 @@
     </div>
   </body>
 </html>
+
+<script>
+  const toggle = (id) => {
+    const regular = document.getElementById(`regular${id}`);
+    const grayscale = document.getElementById(`grayscale${id}`);
+    if (regular.classList.contains("display-none")) {
+      regular.classList.remove("display-none");
+      grayscale.classList.add("display-none");
+    } else if (grayscale.classList.contains("display-none")){
+      grayscale.classList.remove("display-none");
+      regular.classList.add("display-none");
+    }
+  };
+</script>
