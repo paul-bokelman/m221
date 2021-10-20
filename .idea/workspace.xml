@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77e3fdcf-4035-4842-b5c5-5d43083ed456" name="Changes" comment="deleted mavin files to fix the project">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MinilabNumber3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StudentInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Chihuahua.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Minilab4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/PaulLab$Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/PaulLab$Multiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/PaulLab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/SamLab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Student/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Alive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Binary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Dead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Fib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Ishan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Jgroop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Leaderboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Paul.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/SamUnit6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/TeamTasks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/ASCII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/unit7/ConvertGrayScale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/unit7/RedImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/bulb_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/bulb_on.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/gen/ishaank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/gen/justinli.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/gen/lucapinto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/gen/mort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/gen/paulbok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/gen/rohankos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/gen/roops.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/gen/ryanmog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/gen/sammahj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/gen/yeongjoong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/res/ishaank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/res/justinli.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/res/lucapinto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/res/mort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/res/paulbok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/res/rohankos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/res/roops.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/res/ryanmog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/res/sammahj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/grayscale/res/yeongjoong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/ishaan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/luca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/paul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/roop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/sam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/watergun.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/alive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/binary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/dead.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/error/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fib.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fib_get.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/ishan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/jgroop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/leaderboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/paul.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/sam.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/teamtasks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/sping_portfolio/MainTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ymAEJOEalcdejAcrls9jjnJWFr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="serving-web-content" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.sping_portfolio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sping_portfolio.main" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77e3fdcf-4035-4842-b5c5-5d43083ed456" name="Changes" comment="" />
+      <created>1632846277130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632846277130</updated>
+      <workItem from="1632846280568" duration="1625000" />
+      <workItem from="1633015957128" duration="694000" />
+      <workItem from="1633102708421" duration="16000" />
+      <workItem from="1633449730596" duration="1326000" />
+      <workItem from="1633707014542" duration="1838000" />
+      <workItem from="1633965761155" duration="242000" />
+      <workItem from="1633966021622" duration="1245000" />
+      <workItem from="1633967650875" duration="1484000" />
+      <workItem from="1634055080293" duration="644000" />
+      <workItem from="1634140856847" duration="21000" />
+      <workItem from="1634532757276" duration="1046000" />
+      <workItem from="1634571183491" duration="593000" />
+      <workItem from="1634574011211" duration="1000" />
+      <workItem from="1634660823950" duration="1214000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test Commit">
+      <created>1632846391020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632846391020</updated>
+    </task>
+    <task id="LOCAL-00002" summary="WIP Fixing cards fragment and editing alive file">
+      <created>1632847653975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632847653975</updated>
+    </task>
+    <task id="LOCAL-00003" summary="WIP Fixing cards fragment and editing alive file">
+      <created>1633015979887</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633015979887</updated>
+    </task>
+    <task id="LOCAL-00004" summary="WIP Fixing cards fragment and editing alive file. still.">
+      <created>1633707994479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633707994479</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changing filetypes for grayscale to work">
+      <created>1633969085269</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633969085269</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changing filetypes for grayscale to work">
+      <created>1634532857853</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634532857853</updated>
+    </task>
+    <task id="LOCAL-00007" summary="deleted mavin files to fix the project">
+      <created>1634532967705</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634532967705</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test Commit" />
+    <MESSAGE value="WIP Fixing cards fragment and editing alive file" />
+    <MESSAGE value="WIP Fixing cards fragment and editing alive file. still." />
+    <MESSAGE value="changing filetypes for grayscale to work" />
+    <MESSAGE value="deleted mavin files to fix the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted mavin files to fix the project" />
+  </component>
+</project>
