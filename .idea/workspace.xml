@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c44c42ae-ef50-4349-ba38-9d88dffdf85e" name="Changes" comment="commiting and pushing so code compiles">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sping_portfolio/controllers/Leaderboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sping_portfolio/controllers/Leaderboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/leaderboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/leaderboard.html" afterDir="false" />
+    <list default="true" id="4d8cba1c-dbf2-4c75-9db4-b2f0675e6df7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/m221.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,11 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Spring Boot.Main">
     <configuration name="ASCIIArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -117,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ascii art lab" />
