@@ -6,12 +6,15 @@ public class PaulLab {
      }
      
      public class Methods implements Multiply{
+
         public int multiplyTwo(int num1, int num2){
            return num1*num2;
         }
+        
         public int multiplyThree(int num1, int num2, int num3){
            return num1*num2*num3;
         }
+
         public int[] main(){
            Multiply obj = new Methods();
             int two = obj.multiplyTwo(2,3);
@@ -19,5 +22,6 @@ public class PaulLab {
             int[] result={two, three};
            return result;
         }
+
      }
 }
