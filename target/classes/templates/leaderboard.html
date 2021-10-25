@@ -15,21 +15,35 @@
 
 <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
 <body class="a-background">
-<div layout:fragment="content" th:remove="tag">
+<div layout:fragment="content" th:with="firstp=${firstP}" th:with="secondp=${secondP}" th:with="thirdp=${thirdP}" th:remove="tag">
     <!-- Start of body content specific to page -->
     <div id="spring_intro" class="articles" style="margin: 30px">
         <h1><strong>Leaderboard</strong></h1>
     </div>
         <div id = "Leaderboard">
             <ol class = "leaderboardol">
-                <li class = "leaderboardlist"><span class = "Leaderboardnumbers">1.</span><p class = "leaderboardcontent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod ultrices ante, ac laoreet nulla vestibulum adipiscing. Nam quis justo in augue auctor imperdiet. Curabitur aliquet orci sit amet est posuere consectetur. Fusce nec leo ut massa viverra venenatis. Nam accumsan libero a elit aliquet quis ullamcorper arcu tincidunt. Praesent purus turpis, consectetur quis congue vel, pulvinar at lorem. Vivamus varius condimentum dolor, quis ultricies ipsum porta quis. </p></li>
-                <li class = "leaderboardlist"><span class = "Leaderboardnumbers">2.</span><p class = "leaderboardcontent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod ultrices ante, ac laoreet nulla vestibulum adipiscing. Nam quis justo in augue auctor imperdiet. Curabitur aliquet orci sit amet est posuere consectetur.  </p></li>
-                <li class = "leaderboardlist"><span class = "Leaderboardnumbers">3.</span><p class = "leaderboardcontent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod ultrices ante, ac laoreet nulla vestibulum adipiscing. Nam quis justo in augue auctor imperdiet. Curabitur aliquet orci sit amet est posuere consectetur.  </p></li>
+                <li class = "leaderboardlist"><span class = "Leaderboardnumbers">1.</span><p id = "leaderboardfirst"></p></li>
+                <li class = "leaderboardlist"><span class = "Leaderboardnumbers">2.</span><p id = "leaderboardsecond"></p></li>
+                <li class = "leaderboardlist"><span class = "Leaderboardnumbers">2.</span><p id = "leaderboardthird"></p></li>
             </ol>
         </div>
 
+    <script>
 
-    <!-- End of body content specific to page -->
+        const FIRST = [[${firstp}]];
+        const SECOND = [[${secondp}]];
+        const THIRD = [[${thirdp}]];
+
+        let answerContainer = document.getElementById("leaderboardfirst");
+        answerContainer.innerText = `${FIRST}`;
+        let answerContainer = document.getElementById("leaderboardfirst");
+        answerContainer.innerText = `${SECOND}`;
+        let answerContainer = document.getElementById("leaderboardfirst");
+        answerContainer.innerText = `${THIRD}`;
+
+
+    </script>
+
 </div>
 </body>
 </html>
