@@ -67,13 +67,13 @@ Going to provide seniors from Del Norte a website that displays who is still in/
   
 </details>
   
-# Unit 7 
+# Finals
 
 [Ishan's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/42)
 
 [Roop's Individual Final Review Ticket]()
 
-[Sam's Individual Final Review Ticket]()
+[Sam's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/43)
 
 [Paul's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/44)
 
