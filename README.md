@@ -67,18 +67,17 @@ Going to provide seniors from Del Norte a website that displays who is still in/
   
 </details>
   
-# Unit 7 
+# Finals
 
-[Link to Week 7 Review Ticket](https://github.com/paul-bokelman/m221/issues/38)
+[Ishan's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/42)
 
-[Link to Week 7 Video](https://www.youtube.com/watch?v=sEizB_f9Ddg)
+[Roop's Individual Final Review Ticket]()
 
-[View/Frontend Ticket](https://github.com/paul-bokelman/m221/issues/37)
+[Sam's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/43) - [Paul Peer review (5.75/6)](https://github.com/paul-bokelman/m221/issues/43#issuecomment-950581863)
 
-[Model Improvements Ticket](https://github.com/paul-bokelman/m221/issues/35)
+[Paul's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/44)
 
-[Control Improvement Ticket](https://github.com/paul-bokelman/m221/issues/36)
-
+[Luca's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/45)
 
 
 </details>

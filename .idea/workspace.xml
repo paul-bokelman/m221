@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4ac2a2d-59b8-441c-9cc8-177e01bbdb4a" name="Changes" comment="added mavin files">
+    <list default="true" id="4d8cba1c-dbf2-4c75-9db4-b2f0675e6df7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/m221.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,13 +16,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1xmloXEHRTnjw01ISfmNDf2sdcw" />
+  <component name="ProjectId" id="1zjTCuaushy2YGvxO0Ycx53wKad" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -31,17 +31,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Spring Boot.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.sping_portfolio.Main" />
-      <module name="wrapper" />
+    <configuration name="ASCIIArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.sping_portfolio.controllers.asciiart.ASCIIArt" />
+      <module name="serving-web-content" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.sping_portfolio.*" />
+          <option name="PATTERN" value="com.example.sping_portfolio.controllers.asciiart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,61 +60,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="wrapper" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
-      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="serving-web-content" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.sping_portfolio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sping_portfolio.Main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Spring Boot.Main" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="Application.ASCIIArt" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c4ac2a2d-59b8-441c-9cc8-177e01bbdb4a" name="Changes" comment="" />
-      <created>1630968323251</created>
+      <changelist id="c44c42ae-ef50-4349-ba38-9d88dffdf85e" name="Changes" comment="" />
+      <created>1634660378445</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1630968323251</updated>
-      <workItem from="1630968324706" duration="1040000" />
-      <workItem from="1630969435427" duration="473000" />
-      <workItem from="1631329796687" duration="410000" />
-      <workItem from="1631330325169" duration="13000" />
-      <workItem from="1631506256826" duration="1181000" />
-      <workItem from="1632288432629" duration="1027000" />
-      <workItem from="1634502527140" duration="1279000" />
-      <workItem from="1634526759285" duration="45000" />
-      <workItem from="1634526814417" duration="1000" />
-      <workItem from="1634526859319" duration="85000" />
-      <workItem from="1634527014216" duration="1378000" />
-      <workItem from="1634532545741" duration="146000" />
-      <workItem from="1634533143148" duration="1243000" />
-      <workItem from="1634536353293" duration="143000" />
+      <updated>1634660378445</updated>
+      <workItem from="1634660384047" duration="2470000" />
     </task>
-    <task id="LOCAL-00001" summary="added bootstrap grid into my minilab page">
-      <created>1631507372332</created>
+    <task id="LOCAL-00001" summary="ascii art lab">
+      <created>1634660583456</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1631507372332</updated>
+      <updated>1634660583456</updated>
     </task>
-    <task id="LOCAL-00002" summary="added mavin files">
-      <created>1634527837210</created>
+    <task id="LOCAL-00002" summary="commiting and pushing so code compiles">
+      <created>1634746125252</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1634527837210</updated>
+      <updated>1634746125252</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
@@ -135,8 +123,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added bootstrap grid into my minilab page" />
-    <MESSAGE value="added mavin files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added mavin files" />
+    <MESSAGE value="ascii art lab" />
+    <MESSAGE value="commiting and pushing so code compiles" />
+    <option name="LAST_COMMIT_MESSAGE" value="commiting and pushing so code compiles" />
   </component>
 </project>

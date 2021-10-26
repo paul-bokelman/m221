@@ -16,7 +16,7 @@ public class Paul {
     public String page(Model model) {
 
         PaulLab P = new PaulLab();
-        PaulLab.Demo P2 = P.new Demo();
+        PaulLab.Methods P2 = P.new Methods();
         int[] data = P2.main();
 
         model.addAttribute("data", data); 
