@@ -77,7 +77,7 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 [Paul's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/44)
 
-[Luca's Individual Final Review Ticket]()
+[Luca's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/45)
 
 
 </details>
