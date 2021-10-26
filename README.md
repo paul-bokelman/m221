@@ -75,7 +75,7 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 [Sam's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/43) - Final Grade: 6/6 
 
-[Paul's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/44)
+[Paul's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/44) - Final Grade: 6/6
 
 [Luca's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/45)
 
