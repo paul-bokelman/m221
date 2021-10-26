@@ -73,7 +73,7 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 [Roop's Individual Final Review Ticket]()
 
-[Sam's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/43) - Average Grade: 5.88 --> [Paul Peer review (5.75/6)](https://github.com/paul-bokelman/m221/issues/43#issuecomment-950581863), [Luca Peer Review]
+[Sam's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/43) - Final Grade Rounded Up: 6/6 --> [Paul Peer review (6/6)](https://github.com/paul-bokelman/m221/issues/43#issuecomment-950581863), [Luca Peer Review (6/6)]
 
 [Paul's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/44)
 
