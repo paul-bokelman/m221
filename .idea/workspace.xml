@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8cba1c-dbf2-4c75-9db4-b2f0675e6df7" name="Changes" comment="commiting and pushing so code compiles">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sping_portfolio/Rooplab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="4d8cba1c-dbf2-4c75-9db4-b2f0675e6df7" name="Changes" comment="committing changes">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_17_2021_9_52_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_17_2021_9_52_PM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_20_2021_9_09_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_20_2021_9_09_AM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sping_portfolio/Rooplab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sping_portfolio/Rooplab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sping_portfolio/SamLab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sping_portfolio/SamLab.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MinilabNumber3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MinilabNumber3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Staff.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/StudentInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StudentInfo.class" afterDir="false" />
@@ -34,10 +34,7 @@
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/SamUnit6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/SamUnit6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Team.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/TeamTasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/TeamTasks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/ASCIIArt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/ASCIIArt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Array2DBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Array2DBasics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Drawing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Drawing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Picture.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Picture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/out.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/paullabs/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/paullabs/Loops.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/paullabs/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/paullabs/Recursion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/ASCII$ASCIIArtFont.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/ASCII$ASCIIArtFont.class" afterDir="false" />
@@ -45,7 +42,6 @@
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/Factorial.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/unit7/ConvertGrayScale.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/unit7/ConvertGrayScale.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/unit7/RedImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/unit7/RedImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/alive.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/alive.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/sping_portfolio/MainTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/sping_portfolio/MainTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,19 +151,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.Main" />
       <item itemvalue="Application.Minilab4" />
       <item itemvalue="Application.roop_lab" />
       <item itemvalue="Application.RoopLab" />
       <item itemvalue="Application.SamLab" />
+      <item itemvalue="Spring Boot.Main" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.RoopLab" />
+        <item itemvalue="Spring Boot.Main" />
         <item itemvalue="Application.SamLab" />
         <item itemvalue="Application.roop_lab" />
         <item itemvalue="Application.Minilab4" />
-        <item itemvalue="Spring Boot.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +178,7 @@
       <workItem from="1634660384047" duration="2470000" />
       <workItem from="1635732450813" duration="1197000" />
       <workItem from="1635743295845" duration="4242000" />
+      <workItem from="1635779646421" duration="2714000" />
     </task>
     <task id="LOCAL-00001" summary="ascii art lab">
       <created>1634660583456</created>
@@ -221,7 +218,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commiting and pushing so code compiles" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/m221$Main.ic" NAME="Main Coverage Results" MODIFIED="1635220205840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/m221$Main.ic" NAME="Main Coverage Results" MODIFIED="1635779478508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.sping_portfolio.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m221$RoopLab.ic" NAME="RoopLab Coverage Results" MODIFIED="1635779513396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.example.sping_portfolio.*</FILTER>
     </SUITE>
   </component>

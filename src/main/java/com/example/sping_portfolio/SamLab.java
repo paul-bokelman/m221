@@ -20,6 +20,8 @@ class Chihuahua extends Dog {
 
 public class SamLab {
 
+
+
     public static void main(String[] args) {
         Chihuahua c = new Chihuahua();
 

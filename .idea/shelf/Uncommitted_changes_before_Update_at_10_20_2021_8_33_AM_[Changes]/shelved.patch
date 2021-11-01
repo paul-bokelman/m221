@@ -1,0 +1,1164 @@
+Index: target/classes/templates/ishan.html
+===================================================================
+diff --git a/target/classes/templates/ishan.html b/target/classes/templates/ishan.html
+deleted file mode 100644
+--- a/target/classes/templates/ishan.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,28 +0,0 @@
+-<!-- This page is illustrative and contains ideas about HTML formatting -->
+-<!DOCTYPE html>
+-<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+-<html
+-  xmlns:layout="http://www.w3.org/1999/xhtml"
+-  xmlns:th="http://www.w3.org/1999/xhtml"
+-  layout:decorate="~{layout}"
+-  lang="en"
+->
+-  <head>
+-    <div layout:fragment="metadata" th:remove="tag">
+-      <title>Senior Assassins 2022</title>
+-    </div>
+-  </head>
+-
+-  <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+-  <body>
+-    <div layout:fragment="content" th:remove="tag">
+-      <!-- Start of body content specific to page -->
+-      <div id="spring_intro" class="articles" style="margin: 30px">
+-        <h1><strong>Ishan</strong></h1>
+-        <button type="button" class="btn btn-primary">Minilabs</button>
+-        <button type="button" class="btn btn-danger">Other</button>
+-      </div>
+-      <!-- End of body content specific to page -->
+-    </div>
+-  </body>
+-</html>
+Index: target/classes/templates/fragments/nav.html
+===================================================================
+diff --git a/target/classes/templates/fragments/nav.html b/target/classes/templates/fragments/nav.html
+deleted file mode 100644
+--- a/target/classes/templates/fragments/nav.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,8 +0,0 @@
+-<nav th:fragment="header">
+-  <ul>
+-    <li>
+-      <a href="/"><img src="images/watergun.svg" alt="logo" /></a>
+-    </li>
+-    <li><a href="/team">creators</a></li>
+-  </ul>
+-</nav>
+Index: target/classes/templates/paul.html
+===================================================================
+diff --git a/target/classes/templates/paul.html b/target/classes/templates/paul.html
+deleted file mode 100644
+--- a/target/classes/templates/paul.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,35 +0,0 @@
+-<!-- This page is illustrative and contains ideas about HTML formatting -->
+-<!DOCTYPE html>
+-<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+-<html
+-  xmlns:layout="http://www.w3.org/1999/xhtml"
+-  xmlns:th="http://www.w3.org/1999/xhtml"
+-  layout:decorate="~{layout}"
+-  lang="en"
+->
+-  <head>
+-    <div layout:fragment="metadata" th:remove="tag">
+-      <title>Senior Assassins 2022</title>
+-    </div>
+-  </head>
+-
+-  <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+-  <body>
+-    <div layout:fragment="content" th:remove="tag">
+-      <!-- Start of body content specific to page -->
+-      <div id="spring_intro" class="articles" style="margin: 30px">
+-        <h1><strong>Paul</strong></h1>
+-        <b>MINI LAB</b>
+-        <div>
+-          <p>Multiply two numbers (2,3): <span th:text="${data[0]}">1</span></p>
+-        </div>
+-        <div>
+-          <p>
+-            Multiply three numbers (1,9,4): <span th:text="${data[1]}">1</span>
+-          </p>
+-        </div>
+-      </div>
+-      <!-- End of body content specific to page -->
+-    </div>
+-  </body>
+-</html>
+Index: target/classes/static/images/watergun.svg
+===================================================================
+diff --git a/target/classes/static/images/watergun.svg b/target/classes/static/images/watergun.svg
+deleted file mode 100644
+--- a/target/classes/static/images/watergun.svg	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,21 +0,0 @@
+-<svg xmlns="http://www.w3.org/2000/svg" width="124.11" height="80.212" viewBox="0 0 124.11 80.212">
+-  <g id="Group_1" data-name="Group 1" transform="translate(-658 -238)">
+-    <rect id="Rectangle_2" data-name="Rectangle 2" width="6.206" height="8.462" rx="1.91" transform="translate(782.11 281.439) rotate(180)" fill="#fa0"/>
+-    <rect id="Rectangle_3" data-name="Rectangle 3" width="45.131" height="8.462" transform="translate(664.77 272.977)" fill="#fff"/>
+-    <rect id="Rectangle_4" data-name="Rectangle 4" width="5.641" height="11.283" rx="2.38" transform="translate(774.212 247.59)" fill="#fa0"/>
+-    <rect id="Rectangle_5" data-name="Rectangle 5" width="2.821" height="9.026" transform="translate(658 272.977)" fill="#e54c4c"/>
+-    <rect id="Rectangle_6" data-name="Rectangle 6" width="73.902" height="14.103" rx="3.974" transform="translate(704.823 270.156)" fill="#fc0"/>
+-    <rect id="Rectangle_7" data-name="Rectangle 7" width="6.206" height="11.283" transform="translate(659.692 271.848)" fill="#ff4d4d"/>
+-    <rect id="Rectangle_8" data-name="Rectangle 8" width="1.692" height="3.385" transform="translate(709.901 267.899)" fill="#fa0"/>
+-    <rect id="Rectangle_9" data-name="Rectangle 9" width="20.309" height="23.13" rx="4.291" transform="translate(755.596 241.385)" fill="#fc0"/>
+-    <rect id="Rectangle_10" data-name="Rectangle 10" width="2.821" height="16.924" rx="1.282" transform="translate(747.134 244.77)" fill="#8bda5b"/>
+-    <rect id="Rectangle_11" data-name="Rectangle 11" width="73.902" height="28.771" rx="14.386" transform="translate(670.975 239.128)" fill="#8bda5b"/>
+-    <rect id="Rectangle_12" data-name="Rectangle 12" width="15.232" height="11.283" rx="5.641" transform="translate(739.236 247.59)" fill="#8bda5b"/>
+-    <rect id="Rectangle_13" data-name="Rectangle 13" width="5.641" height="14.103" transform="translate(772.52 264.514) rotate(90)" fill="#fa0"/>
+-    <path id="Path_1" data-name="Path 1" d="M1016.155,454.866l-10.466-31.152a1.224,1.224,0,0,1,1.16-1.614h16.832a1.224,1.224,0,0,1,1.157.825l11.489,33.272a1.592,1.592,0,0,1-1.505,2.112h-13.878A5.051,5.051,0,0,1,1016.155,454.866Z" transform="translate(-264.537 -140.097)" fill="#fc0"/>
+-    <rect id="Rectangle_14" data-name="Rectangle 14" width="5.641" height="11.283" transform="translate(749.955 247.59)" fill="#fa0"/>
+-    <rect id="Rectangle_15" data-name="Rectangle 15" width="6.206" height="30.463" transform="translate(707.644 238)" fill="#fc0"/>
+-    <path id="Path_2" data-name="Path 2" d="M936.164,431.541l4.815,11.862a3.593,3.593,0,0,0,3.329,2.242h13.477l-1.515-4.508-10.023,0a1.392,1.392,0,0,1-1.307-.917l-3.151-8.674Z" transform="translate(-211.678 -147.282)" fill="#fc0"/>
+-    <path id="Path_3" data-name="Path 3" d="M975.688,431.541a8.193,8.193,0,0,1,2.483,3.385c1.011,2.706-.071,4.809.564,5.077.821.348,3.979-2.6,3.385-5.641a4.854,4.854,0,0,0-1.877-2.821Z" transform="translate(-241.756 -147.282)" fill="#fc0"/>
+-  </g>
+-</svg>
+Index: target/classes/templates/teamtasks.html
+===================================================================
+diff --git a/target/classes/templates/teamtasks.html b/target/classes/templates/teamtasks.html
+deleted file mode 100644
+--- a/target/classes/templates/teamtasks.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,14 +0,0 @@
+-<html
+-  xmlns:layout="http://www.w3.org/1999/xhtml"
+-  xmlns:th="http://www.w3.org/1999/xhtml"
+-  layout:decorate="~{layout}"
+-  lang="en"
+->
+-  <div layout:fragment="content" th:remove="tag">
+-    <div class="teamtask-container">
+-      <a href="/binary">binary math</a>
+-      <a href="/fib">fibonacci</a>
+-      <a href="#">more coming soon...</a>
+-    </div>
+-  </div>
+-</html>
+Index: target/classes/templates/jgroop.html
+===================================================================
+diff --git a/target/classes/templates/jgroop.html b/target/classes/templates/jgroop.html
+deleted file mode 100644
+--- a/target/classes/templates/jgroop.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,32 +0,0 @@
+-<!-- This page is illustrative and contains ideas about HTML formatting -->
+-<!DOCTYPE html>
+-<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+-<html
+-  xmlns:layout="http://www.w3.org/1999/xhtml"
+-  xmlns:th="http://www.w3.org/1999/xhtml"
+-  layout:decorate="~{layout}"
+-  lang="en"
+->
+-  <head>
+-    <div layout:fragment="metadata" th:remove="tag">
+-
+-
+-
+-      <title>Senior Assassins 2022</title>
+-    </div>
+-  </head>
+-
+-  <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+-  <body>
+-    <div layout:fragment="content" th:remove="tag">
+-      <!-- Start of body content specific to page -->
+-      <div id="spring_intro" class="articles" style="margin: 30px">
+-        <h1><strong>Jgroop</strong></h1>
+-        <button type="button" class="btn btn-primary">Minilabs</button>
+-        <button type="button" class="btn btn-danger">Other</button>
+-        <button type="button" class="btn btn-danger">Test</button>
+-      </div>
+-      <!-- End of body content specific to page -->
+-    </div>
+-  </body>
+-</html>
+Index: target/classes/templates/alive.html
+===================================================================
+diff --git a/target/classes/templates/alive.html b/target/classes/templates/alive.html
+deleted file mode 100644
+--- a/target/classes/templates/alive.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,78 +0,0 @@
+-<!-- This page is illustrative and contains ideas about HTML formatting -->
+-<!DOCTYPE html>
+-<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+-<html
+-  xmlns:layout="http://www.w3.org/1999/xhtml"
+-  xmlns:th="http://www.w3.org/1999/xhtml"
+-  layout:decorate="~{layout}"
+-  lang="en"
+->
+-  <head>
+-    <div layout:fragment="metadata" th:remove="tag">
+-      <title>Senior Assassins 2022</title>
+-    </div>
+-  </head>
+-
+-  <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+-  <body class="a-background">
+-    <div layout:fragment="content" th:remove="tag">
+-      <!-- Start of body content specific to page -->
+-      <div id="spring_intro" class="articles" style="margin: 30px">
+-        <h1><strong>Players</strong></h1>
+-      </div>
+-      <div class="card-grid">
+-        <div th:each="i : ${#numbers.sequence( 1, 10, 1)}">
+-          <div>
+-            <div class="card" style="width: 18rem">
+-              <div class="card-body">
+-            <img
+-            th:id="'regular' + ${i}"
+-                class="card-img-top"
+-                data-src="holder.js/100px180/"
+-                alt="100%x180"
+-                style="height: 180px; width: 100%; display: block"
+-                th:src="${'/images/grayscale/gen/' + names[i-1][1] + '.png'}"
+-                data-holder-rendered="true"
+-              />
+-
+-              <img
+-              th:id="'grayscale' + ${i}"
+-              class="card-img-top display-none"
+-              data-src="holder.js/100px180/"
+-              alt="100%x180"
+-              style="height: 180px; width: 100%; display: block"
+-              th:src="${'/images/grayscale/res/' + names[i-1][1] + '.png'}"
+-              data-holder-rendered="true"
+-            />
+-
+-              <div class="card-body">
+-                <h5 class="card-title" th:text="${names[i-1][0]}">text</h5>
+-                <a id="output" href="" class="btn btn-primary"
+-                  >Assassin stats</a
+-                >
+-                <button th:attr="onclick=|toggle('${i}')|"  class="btn btn-primary"
+-                >Toggle</
+-              >
+-                
+-              </div>
+-            </div>
+-          </div>
+-        </div>
+-      </div>
+-    </div>
+-  </body>
+-</html>
+-
+-<script>
+-  const toggle = (id) => {
+-    const regular = document.getElementById(`regular${id}`);
+-    const grayscale = document.getElementById(`grayscale${id}`);
+-    if (regular.classList.contains("display-none")) {
+-      regular.classList.remove("display-none");
+-      grayscale.classList.add("display-none");
+-    } else if (grayscale.classList.contains("display-none")){
+-      grayscale.classList.remove("display-none");
+-      regular.classList.add("display-none");
+-    }
+-  };
+-</script>
+\ No newline at end of file
+Index: target/classes/templates/fib_get.html
+===================================================================
+diff --git a/target/classes/templates/fib_get.html b/target/classes/templates/fib_get.html
+deleted file mode 100644
+--- a/target/classes/templates/fib_get.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,22 +0,0 @@
+-<!DOCTYPE HTML>
+-<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+-      layout:decorate="~{layout}" lang="en">
+-
+-<head><div layout:fragment="metadata" th:remove="tag">
+-  <!-- Start of head content specific to page -->
+-  <title>Fibonacci | Senior Assassins 2021-22</title>
+-  <!-- End of head content specific to page -->
+-</div></head>
+-
+-<body><div layout:fragment="content" th:remove="tag">
+-    <!-- Start of body content specific to page -->
+-    <div class="contact" style="height: 35vh;">
+-        <div class="row justify-content-left" style="margin: 2%;">
+-            "Welcome <?php echo $_POST["name"]; ?> "<br>
+-            "Your Fibonacci string is: <?php echo $_POST["fibchar"]; ?> "
+-        </div>
+-    </div>
+-    <!-- End of body content specific to page -->
+-</div></body>
+-
+-</html>
+\ No newline at end of file
+Index: target/classes/templates/team.html
+===================================================================
+diff --git a/target/classes/templates/team.html b/target/classes/templates/team.html
+deleted file mode 100644
+--- a/target/classes/templates/team.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,64 +0,0 @@
+-<html
+-  xmlns:layout="http://www.w3.org/1999/xhtml"
+-  xmlns:th="http://www.w3.org/1999/xhtml"
+-  layout:decorate="~{layout}"
+-  lang="en"
+->
+-  <div layout:fragment="content" th:remove="tag">
+-    <div class="team-container">
+-      <div>
+-        <img
+-          src=""
+-          th:src="@{'/images/paul.png'}"
+-          alt="paul's ugly lookin face"
+-          width="200"
+-          height="200"
+-        />
+-        <a href="/paul">paul bokelman</a>
+-      </div>
+-      <div>
+-        <img
+-          src=""
+-          th:src="@{'/images/sam.png'}"
+-          alt="paul's ugly lookin face"
+-          width="200"
+-          height="200"
+-        />
+-        <a href="/sam">sam mahjouri</a>
+-      </div>
+-      <div>
+-        <img
+-          src=""
+-          th:src="@{'/images/luca.png'}"
+-          alt="paul's ugly lookin face"
+-          width="200"
+-          height="200"
+-        />
+-        <a href="/luca">luca pinto</a>
+-      </div>
+-      <div>
+-        <img
+-          src=""
+-          th:src="@{'/images/ishaan.png'}"
+-          alt="paul's ugly lookin face"
+-          width="200"
+-          height="200"
+-        />
+-        <a href="/ishan">ishan kapoor</a>
+-      </div>
+-      <div>
+-        <img
+-          src=""
+-          th:src="@{'/images/roop.png'}"
+-          alt="paul's ugly lookin face"
+-          width="200"
+-          height="200"
+-        />
+-        <a href="/jgroop">jagroop vij</a>
+-      </div>
+-      <div>
+-        <a href="/teamtasks">team tasks</a>
+-      </div>
+-    </div>
+-  </div>
+-</html>
+Index: target/classes/templates/dead.html
+===================================================================
+diff --git a/target/classes/templates/dead.html b/target/classes/templates/dead.html
+deleted file mode 100644
+--- a/target/classes/templates/dead.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,62 +0,0 @@
+-<!-- This page is illustrative and contains ideas about HTML formatting -->
+-<!DOCTYPE html>
+-<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+-<html
+-        xmlns:layout="http://www.w3.org/1999/xhtml"
+-        xmlns:th="http://www.w3.org/1999/xhtml"
+-        layout:decorate="~{layout}"
+-        lang="en"
+->
+-<head>
+-  <div layout:fragment="metadata" th:remove="tag">
+-    <title>Senior Assassins 2022</title>
+-  </div>
+-</head>
+-
+-<script>
+-  window.onload = (event) => {
+-    let name = "mr. m";
+-
+-    document.getElementById('output').innerHTML = "id=\"output\" href=\"/" + $(name) + "\" class=\"btn btn-primary\"";
+-    console.log(name);
+-    console.log("isRunning");
+-  };
+-</script>
+-
+-<!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+-<body class="d-background">
+-<div layout:fragment="content" th:remove="tag">
+-  <!-- Start of body content specific to page -->
+-  <div id="spring_intro" class="articles" style="margin: 30px">
+-    <h1 class="test"><strong>Dead</strong></h1>
+-  </div>
+-
+-  <div class="card-grid">
+-    <div th:each="i : ${#numbers.sequence( 1, 9, 1)}">
+-      <div>
+-        <div class="card" style="width: 18rem">
+-          <img
+-                  class="card-img-top"
+-                  data-src="holder.js/100px180/"
+-                  alt="100%x180"
+-                  style="height: 180px; width: 100%; display: block"
+-                  src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22286%22%20height%3D%22180%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20286%20180%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_17ba22834bb%20text%20%7B%20fill%3Argba(255%2C255%2C255%2C.75)%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A14pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_17ba22834bb%22%3E%3Crect%20width%3D%22286%22%20height%3D%22180%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22107.1875%22%20y%3D%2296.6%22%3EAssassin%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+-                  data-holder-rendered="true"
+-          />
+-          <div class="card-body">
+-            <h5 class="card-title">Assassin name</h5>
+-            <a id="output" href="" class="btn btn-primary"
+-            >Assassin stats</a
+-            >
+-          </div>
+-        </div>
+-      </div>
+-    </div>
+-  </div>
+-
+-</div>
+-
+-<!-- End of body content specific to page -->
+-</div>
+-</body>
+-</html>
+Index: target/classes/application.properties
+===================================================================
+diff --git a/target/classes/application.properties b/target/classes/application.properties
+deleted file mode 100644
+--- a/target/classes/application.properties	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,2 +0,0 @@
+-server.error.whitelabel.enabled=false
+-spring.resources.add-mappings=true
+Index: target/classes/templates/fragments/card.html
+===================================================================
+diff --git a/target/classes/templates/fragments/card.html b/target/classes/templates/fragments/card.html
+deleted file mode 100644
+--- a/target/classes/templates/fragments/card.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,16 +0,0 @@
+-<div th:fragment="card">
+-  <div class="card" style="width: 18rem">
+-    <img
+-            class="card-img-top"
+-            data-src="holder.js/100px180/"
+-            alt="100%x180"
+-            style="height: 180px; width: 100%; display: block"
+-            src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22286%22%20height%3D%22180%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20286%20180%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_17ba22834bb%20text%20%7B%20fill%3Argba(255%2C255%2C255%2C.75)%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A14pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_17ba22834bb%22%3E%3Crect%20width%3D%22286%22%20height%3D%22180%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22107.1875%22%20y%3D%2296.6%22%3E286x180%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+-            data-holder-rendered="true"
+-    />
+-    <div class="card-body">
+-      <h5 class="card-title">name</h5>
+-      <a id="output" href="" class="btn btn-primary">Assassin stats</a>
+-    </div>
+-  </div>
+-</div>
+\ No newline at end of file
+Index: target/classes/templates/layout.html
+===================================================================
+diff --git a/target/classes/templates/layout.html b/target/classes/templates/layout.html
+deleted file mode 100644
+--- a/target/classes/templates/layout.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,18 +0,0 @@
+-<!DOCTYPE html>
+-<html
+-  xmlns:layout="http://www.w3.org/1999/xhtml"
+-  xmlns:th="http://www.w3.org/1999/xhtml"
+-  lang="en"
+->
+-  <head>
+-    <div th:replace="fragments/head :: header"></div>
+-    <div layout:fragment="metadata"></div>
+-  </head>
+-
+-  <body>
+-    <div th:replace="fragments/nav :: header"></div>
+-    <div layout:fragment="content"></div>
+-  </body>
+-
+-  <!-- <div layout:fragment="script">...</div> -->
+-</html>
+Index: target/classes/templates/fragments/head.html
+===================================================================
+diff --git a/target/classes/templates/fragments/head.html b/target/classes/templates/fragments/head.html
+deleted file mode 100644
+--- a/target/classes/templates/fragments/head.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,18 +0,0 @@
+-<head xmlns:th="http://www.w3.org/1999/xhtml">
+-    <title>Senior Assassins</title>
+-    <th:block th:fragment="header">
+-        <!-- Begin head fragments -->
+-        <meta charset="utf-8">
+-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+-        <link rel="stylesheet" th:href="@{/css/styles.css}"/>
+-
+-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+-       
+-    </th:block>
+-</head>
+\ No newline at end of file
+Index: target/classes/templates/index.html
+===================================================================
+diff --git a/target/classes/templates/index.html b/target/classes/templates/index.html
+deleted file mode 100644
+--- a/target/classes/templates/index.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,28 +0,0 @@
+-<!-- This page is illustrative and contains ideas about HTML formatting -->
+-<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+-<html
+-  xmlns:layout="http://www.w3.org/1999/xhtml"
+-  xmlns:th="http://www.w3.org/1999/xhtml"
+-  layout:decorate="~{layout}"
+-  lang="en"
+->
+-  <head>
+-    <div layout:fragment="metadata" th:remove="tag">
+-      <title>Senior Assassins 2022</title>
+-    </div>
+-  </head>
+-
+-  <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+-  <div layout:fragment="content" th:remove="tag">
+-    <div class="landing-content">
+-      <div class='img-container'>
+-        <img src="images/watergun.svg" alt="logo">
+-      </div>
+-      <h1>senior assassins</h1>
+-      <div class="secondary-text">
+-        <a href="/alive">players</a>
+-        <a href="/leaderboard">leaderboard</a>
+-      </div>
+-    </div>
+-  </div>
+-</html>
+Index: target/classes/templates/error/404.html
+===================================================================
+diff --git a/target/classes/templates/error/404.html b/target/classes/templates/error/404.html
+deleted file mode 100644
+--- a/target/classes/templates/error/404.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,18 +0,0 @@
+-<!-- This page is illustrative and contains ideas about HTML formatting -->
+-<!DOCTYPE HTML>
+-<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+-<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+-      layout:decorate="~{fragments/layout}" lang="en">
+-
+-<head><div layout:fragment="metadata" th:remove="tag">
+-    <title>Error</title>
+-</div></head>
+-
+-<!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+-<body><div layout:fragment="content" th:remove="tag">
+-    <div id="spring_intro" class="alert" style="margin: 30px;">
+-        <p>404 Error page</p>
+-    </div>
+-</div></body>
+-
+-</html>
+\ No newline at end of file
+Index: target/classes/templates/fib.html
+===================================================================
+diff --git a/target/classes/templates/fib.html b/target/classes/templates/fib.html
+deleted file mode 100644
+--- a/target/classes/templates/fib.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,101 +0,0 @@
+-<!DOCTYPE HTML>
+-<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+-      layout:decorate="~{layout}" lang="en">
+-
+-<head><div layout:fragment="metadata" th:remove="tag">
+-  <!-- Start of head content specific to page -->
+-  <title>Fibonacci | Senior Assassins 2021-22</title>
+-  <!-- End of head content specific to page -->
+-</div>
+-  <style>
+-    form {
+-      /* Center the form on the page */
+-      margin: 0 auto;
+-      width: 500px;
+-      /* Form outline */
+-      padding: 1em;
+-      border: 1px solid #CCC;
+-      border-radius: 1em;
+-    }
+-
+-    ul {
+-      list-style: none;
+-      padding: 0;
+-      margin: 0;
+-    }
+-
+-    form li + li {
+-      margin-top: 1em;
+-    }
+-
+-    label {
+-      /* Uniform size & alignment */
+-      display: inline-block;
+-      width: 90px;
+-      text-align: right;
+-    }
+-
+-    input,
+-    textarea {
+-      /* To make sure that all text fields have the same font settings
+-         By default, textareas have a monospace font */
+-      font: 1em sans-serif;
+-
+-      /* Uniform text field size */
+-      width: 300px;
+-      box-sizing: border-box;
+-
+-      /* Match form field borders */
+-      border: 1px solid #999;
+-    }
+-
+-    input:focus,
+-    textarea:focus {
+-      /* Additional highlight for focused elements */
+-      border-color: #000;
+-    }
+-
+-    textarea {
+-      /* Align multiline text fields with their labels */
+-      vertical-align: top;
+-
+-      /* Provide space to type some text */
+-      height: 5em;
+-    }
+-
+-    .button {
+-      /* Align buttons with the text fields */
+-      padding-left: 90px; /* same size as the label elements */
+-    }
+-
+-    button {
+-      /* This extra margin represent roughly the same space as the space
+-         between the labels and their text fields */
+-      margin-left: .5em;
+-    }
+-  </style>
+-</head>
+-
+-<body>
+-<div layout:fragment="content" th:remove="tag">
+-  <!-- Start of body content specific to page -->
+-  <div class="contact" style="height: 35vh;">
+-    <div class="row justify-content-left" style="margin: 2%;">
+-      <form action="/my-handling-form-page" method="post">
+-        <ul>
+-          <li>
+-            <label for="name">Name:</label>
+-            <input type="text" id="name" name="user_name">
+-          </li>
+-          <li>
+-            <label for="fibchar">Fib Char:</label>
+-            <input type="fibchar" id="fibchar" name="user_email">
+-          </li>
+-        </ul>
+-      </form>
+-    </div>
+-  </div>
+-  <!-- End of body content specific to page -->
+-</div></body>
+-
+-</html>
+\ No newline at end of file
+Index: target/classes/templates/binary.html
+===================================================================
+diff --git a/target/classes/templates/binary.html b/target/classes/templates/binary.html
+deleted file mode 100644
+--- a/target/classes/templates/binary.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,184 +0,0 @@
+-<!-- This page is illustrative and contains ideas about HTML formatting -->
+-<!DOCTYPE html>
+-<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+-<html
+-  xmlns:layout="http://www.w3.org/1999/xhtml"
+-  xmlns:th="http://www.w3.org/1999/xhtml"
+-  layout:decorate="~{layout}"
+-  lang="en"
+->
+-  <head>
+-    <div layout:fragment="metadata" th:remove="tag">
+-      <title>Senior Assassins 2022</title>
+-    </div>
+-  </head>
+-
+-  <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+-  <body>
+-    <div layout:fragment="content" th:remove="tag">
+-      <!-- End of body content specific to page -->
+-    </div>
+-  </body>
+-
+-  <!-- Hack 1: variable bits and variables for IMAGE_ON/IMAGE_OFF should come from backend Model -->
+-  <!-- // Hack 2: have input to allow user to customize bits, 8 or 24 are key for remainder -->
+-  <!-- Hack 3: add a character display to text when 8 bits, determine if printable or not printable -->
+-  <!-- Hack 4: add a color code and display color when 24 bits, think about display on this one -->
+-  <!-- Hack 5: do your own thing -->
+-  <!-- Hack 6: fix all warnings -->
+-
+-  <!-- <head> -->
+-  <script>
+-    let showtext = "[[${bits}]]";
+-    console.log(showtext);
+-  </script>
+-
+-  <div layout:fragment="metadata" th:with="bits=6" th:remove="tag">
+-    <title>Binary Minilab | Senior Assassins 2022</title>
+-    <script>
+-      const BITS = [[${bits}]];
+-      const MAX = 2 ** BITS - 1;
+-      const MSG_ON = "Turn on";
+-      const IMAGE_ON = "/images/bulb_on.gif";
+-      const MSG_OFF = "Turn off";
+-      const IMAGE_OFF = "/images/bulb_off.png"
+-
+-      // return string with current value of each bit
+-      function getBits() {
+-        let bits = "";
+-        for(let i = 0; i < BITS; i++) {
+-          bits = bits + document.getElementById('digit' + i).value;
+-        }
+-        return bits;
+-      }
+-      // setter for DOM values
+-      function setConversions(binary) {
+-        document.getElementById('binary').innerHTML = binary;
+-        // Octal conversion
+-        document.getElementById('octal').innerHTML = parseInt(binary, 2).toString(8);
+-        // Hexadecimal conversion
+-        document.getElementById('hexadecimal').innerHTML = parseInt(binary, 2).toString(16);
+-        // Decimal conversion
+-        document.getElementById('decimal').innerHTML = parseInt(binary, 2).toString();
+-      }
+-      //
+-      function decimal_2_base(decimal, base) {
+-        let conversion = "";
+-        // loop to convert to base
+-        do {
+-          let digit = decimal % base;
+-          conversion = "" + digit + conversion; // what does this do?
+-          decimal = ~~(decimal / base);         // what does this do?
+-        } while (decimal > 0);                  // why while at the end? what is ~~?
+-        // loop to pad with zeros
+-        if (base === 2) {                        // only pad for binary conversions
+-          for (let i = 0; conversion.length < BITS; i++) {
+-            conversion = "0" + conversion;
+-          }
+-        }
+-        return conversion;
+-      }
+-
+-      // toggle selected bit and recalculate
+-      function toggleBit(i) {
+-        //alert("Digit action: " + i );
+-        const dig = document.getElementById('digit' + i);
+-        const image = document.getElementById('bulb' + i);
+-        const butt = document.getElementById('butt' + i);
+-        // Change digit and visual
+-        if (image.src.match(IMAGE_ON)) {
+-          dig.value = 0;
+-          image.src = IMAGE_OFF;
+-          butt.innerHTML = MSG_ON;
+-        } else {
+-          dig.value = 1;
+-          image.src = IMAGE_ON;
+-          butt.innerHTML = MSG_OFF;
+-        }
+-        // Binary numbers
+-        const binary = getBits();
+-        setConversions(binary);
+-      }
+-      // add is positive integer, subtract is negative integer
+-      function add(n) {
+-        let binary = getBits();
+-        // convert to decimal and do math
+-        let decimal = parseInt(binary, 2);
+-        if (n > 0) {  // PLUS
+-          decimal = MAX === decimal ? 0 : decimal += n; // OVERFLOW or PLUS
+-        } else  {     // MINUS
+-          decimal = 0 === decimal ? MAX : decimal += n; // OVERFLOW or MINUS
+-        }
+-        // convert the result back to binary
+-        binary = decimal_2_base(decimal, 2);
+-        // update conversions
+-        setConversions(binary);
+-        // update bits
+-        for (let i = 0; i < binary.length; i++) {
+-          let digit = binary.substr(i, 1);
+-          document.getElementById('digit' + i).value = digit;
+-          if (digit === "1") {
+-            document.getElementById('bulb' + i).src = IMAGE_ON;
+-            document.getElementById('butt' + i).innerHTML = MSG_OFF;
+-          } else {
+-            document.getElementById('bulb' + i).src = IMAGE_OFF;
+-            document.getElementById('butt' + i).innerHTML = MSG_ON;
+-          }
+-        }
+-      }
+-    </script>
+-  </div>
+-  <!-- </head> -->
+-
+-  <!-- <body> -->
+-  <div layout:fragment="content" th:with="bits=6" th:remove="tag">
+-    <h1 class="text-center">Binary Math with Conversions</h1>
+-    <div class="container">
+-      <div class="row justify-content-md-center">
+-
+-        <div class="col-8">
+-          <table class="table">
+-            <tr id="table">
+-              <th>Plus</th>
+-              <th>Binary</th>
+-              <th>Octal</th>
+-              <th>Hexadecimal</th>
+-              <th>Decimal</th>
+-              <th>Minus</th>
+-            </tr>
+-            <tr>
+-              <td><button type="button" id="add1" onclick="add(1)">+1</button></td>
+-              <td id="binary">00000000</td>
+-              <td id="octal">0</td>
+-              <td id="hexadecimal">0</td>
+-              <td id="decimal">0</td>
+-              <td><button type="button" id="sub1" onclick="add(-1)">-1</button></td>
+-            </tr>
+-          </table>
+-        </div>
+-
+-        <div class="col-12">
+-          <table class="table">
+-
+-            <tr>
+-              <th:block th:each="i: ${#numbers.sequence(0, bits-1)}">
+-                <td><img class="img-responsive py-3" th:id="'bulb' + ${i}" src="" th:src="@{'/images/bulb_off.png'}" alt="" width="40" height="Auto">
+-                  <button type="button" th:id="'butt' + ${i}" th:onclick="'javascript:toggleBit(' + ${i} + ')'">Turn on</button>
+-                </td>
+-              </th:block>
+-            </tr>
+-
+-            <tr>
+-              <th:block th:each="i: ${#numbers.sequence(0, bits-1)}">
+-                <td><input type='text' th:id="'digit' + ${i}" Value="0" size="1" readonly></td>
+-              </th:block>
+-            </tr>
+-
+-          </table>
+-        </div>
+-
+-      </div>
+-    </div>
+-  </div>
+-
+-</html>
+Index: target/classes/templates/sam.html
+===================================================================
+diff --git a/target/classes/templates/sam.html b/target/classes/templates/sam.html
+deleted file mode 100644
+--- a/target/classes/templates/sam.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,18 +0,0 @@
+-<!DOCTYPE html>
+-<html
+-        xmlns:layout="http://www.w3.org/1999/xhtml"
+-        xmlns:th="http://www.w3.org/1999/xhtml"
+-        lang="en"
+->
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Title</title>
+-</head>
+-<body>
+-
+-    <h1>Factorial</h1>
+-    <p>Number: <span th:text="${num}"></span></p>
+-    <p>Number: <span th:text="${result}"></span></p>
+-
+-</body>
+-</html>
+\ No newline at end of file
+Index: target/classes/static/css/styles.css
+===================================================================
+diff --git a/target/classes/static/css/styles.css b/target/classes/static/css/styles.css
+deleted file mode 100644
+--- a/target/classes/static/css/styles.css	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,188 +0,0 @@
+-@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
+-
+-body {
+-  font-family: "Crimson Text", serif;
+-  background: #efe3d8;
+-  padding: 30px 50px;
+-}
+-
+-.card-grid {
+-  display: grid;
+-  grid-template-columns: 0.5fr 0.5fr 0.5fr;
+-  grid-auto-rows: 1fr 1fr;
+-  gap: 50px 50px;
+-  grid-template-areas:
+-    ". . ."
+-    ". . ."
+-    ". . ."
+-    ".    ";
+-}
+-
+-nav ul {
+-  list-style-type: none;
+-  margin: 0;
+-  padding: 0;
+-  overflow: hidden;
+-  width: 100%;
+-}
+-
+-nav li:first-child {
+-  float: left;
+-}
+-
+-nav li:last-child {
+-  float: right;
+-}
+-
+-nav li a img {
+-  width: 40%;
+-  transform: scaleX(-1);
+-}
+-
+-nav li a {
+-  font-size: 1.2rem;
+-  font-weight: 700;
+-  display: block;
+-  color: #ad937c;
+-  text-align: center;
+-  text-decoration: none;
+-}
+-
+-nav li a:hover {
+-  color: #815e3d;
+-  text-decoration: none;
+-}
+-
+-.landing-content {
+-  position: relative;
+-  display: flex;
+-  flex-direction: column;
+-  align-items: center;
+-  justify-content: center;
+-  height: 90vh;
+-}
+-
+-.img-container {
+-  z-index: -100;
+-  height: 8rem;
+-  width: 21rem;
+-  position: absolute;
+-}
+-
+-.landing-content .img-container img {
+-  width: 20%;
+-  position: absolute;
+-  right: 0;
+-  top: 0;
+-}
+-
+-.landing-content h1 {
+-  font-size: 2.5rem;
+-  font-weight: 700;
+-  color: #815e3d;
+-  margin-bottom: -0.3rem;
+-}
+-
+-.landing-content .secondary-text {
+-  width: 17rem;
+-}
+-
+-.landing-content a {
+-  display: inline;
+-  color: #ad937c;
+-  font-size: 1.5rem;
+-  font-weight: 700;
+-  text-decoration: none;
+-  cursor: pointer;
+-}
+-
+-.landing-content a:hover {
+-  color: #815e3d;
+-  transition: ease-in-out 0.1s;
+-}
+-
+-.landing-content a:first-child {
+-  float: left;
+-}
+-
+-.landing-content a:last-child {
+-  float: right;
+-}
+-
+-.team-container {
+-  align-items: center;
+-  text-align: center;
+-  height: 90vh;
+-  display: grid;
+-  grid-template-columns: repeat(3, 1fr);
+-  grid-column-gap: 0px;
+-  grid-row-gap: 0px;
+-}
+-
+-.team-container div a {
+-  display: flex;
+-  flex-direction: column;
+-  font-size: 1.5rem;
+-  font-weight: 700;
+-  color: #ad937c;
+-  margin-bottom: 0.5rem;
+-}
+-
+-.team-container div a:hover {
+-  color: #815e3d;
+-}
+-
+-.team-container div img {
+-  border: #815e3d;
+-}
+-
+-.teamtask-container {
+-  align-items: center;
+-  text-align: center;
+-  height: 90vh;
+-  display: grid;
+-  grid-template-columns: repeat(3, 1fr);
+-  grid-column-gap: 0px;
+-  grid-row-gap: 0px;
+-}
+-
+-.teamtask-container a {
+-  font-size: 1.5rem;
+-  font-weight: 700;
+-  color: #ad937c;
+-  margin-bottom: 0.5rem;
+-}
+-
+-.teamtask-container a:hover {
+-  color: #815e3d;
+-}
+-
+-#Leaderboard {
+-  width: 500px;
+-  margin: 10px;
+-}
+-
+-.leaderboardol {
+-  color: #ccc;
+-  list-style-type: none;
+-}
+-
+-.leaderboardlist {
+-  position: relative;
+-  font: bold italic 45px/1.5 Helvetica, Verdana, sans-serif;
+-  margin-bottom: 20px;
+-}
+-
+-.leaderboardcontent {
+-  font: 12px/1.5 Helvetica, sans-serif;
+-  padding-left: 59px;
+-  color: #555;
+-}
+-
+-.Leaderboardnumbers {
+-  position: absolute;
+-}
+-
+-.display-none {
+-  display: none !important;
+-}
+Index: target/classes/templates/leaderboard.html
+===================================================================
+diff --git a/target/classes/templates/leaderboard.html b/target/classes/templates/leaderboard.html
+deleted file mode 100644
+--- a/target/classes/templates/leaderboard.html	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ /dev/null	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
+@@ -1,35 +0,0 @@
+-<!-- This page is illustrative and contains ideas about HTML formatting -->
+-<!DOCTYPE html>
+-<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+-<html
+-        xmlns:layout="http://www.w3.org/1999/xhtml"
+-        xmlns:th="http://www.w3.org/1999/xhtml"
+-        layout:decorate="~{layout}"
+-        lang="en"
+->
+-<head>
+-    <div layout:fragment="metadata" th:remove="tag">
+-        <title>Senior Assassins 2022</title>
+-    </div>
+-</head>
+-
+-<!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+-<body class="a-background">
+-<div layout:fragment="content" th:remove="tag">
+-    <!-- Start of body content specific to page -->
+-    <div id="spring_intro" class="articles" style="margin: 30px">
+-        <h1><strong>Leaderboard</strong></h1>
+-    </div>
+-        <div id = "Leaderboard">
+-            <ol class = "leaderboardol">
+-                <li class = "leaderboardlist"><span class = "Leaderboardnumbers">1.</span><p class = "leaderboardcontent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod ultrices ante, ac laoreet nulla vestibulum adipiscing. Nam quis justo in augue auctor imperdiet. Curabitur aliquet orci sit amet est posuere consectetur. Fusce nec leo ut massa viverra venenatis. Nam accumsan libero a elit aliquet quis ullamcorper arcu tincidunt. Praesent purus turpis, consectetur quis congue vel, pulvinar at lorem. Vivamus varius condimentum dolor, quis ultricies ipsum porta quis. </p></li>
+-                <li class = "leaderboardlist"><span class = "Leaderboardnumbers">2.</span><p class = "leaderboardcontent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod ultrices ante, ac laoreet nulla vestibulum adipiscing. Nam quis justo in augue auctor imperdiet. Curabitur aliquet orci sit amet est posuere consectetur.  </p></li>
+-                <li class = "leaderboardlist"><span class = "Leaderboardnumbers">3.</span><p class = "leaderboardcontent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod ultrices ante, ac laoreet nulla vestibulum adipiscing. Nam quis justo in augue auctor imperdiet. Curabitur aliquet orci sit amet est posuere consectetur.  </p></li>
+-            </ol>
+-        </div>
+-
+-
+-    <!-- End of body content specific to page -->
+-</div>
+-</body>
+-</html>
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"CompilerConfiguration\">\r\n    <annotationProcessing>\r\n      <profile name=\"Maven default annotation processors profile\" enabled=\"true\">\r\n        <sourceOutputDir name=\"target/generated-sources/annotations\" />\r\n        <sourceTestOutputDir name=\"target/generated-test-sources/test-annotations\" />\r\n        <outputRelativeToContentRoot value=\"true\" />\r\n        <module name=\"serving-web-content\" />\r\n      </profile>\r\n    </annotationProcessing>\r\n  </component>\r\n  <component name=\"JavacSettings\">\r\n    <option name=\"ADDITIONAL_OPTIONS_OVERRIDE\">\r\n      <module name=\"serving-web-content\" options=\"-parameters\" />\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/compiler.xml b/.idea/compiler.xml
+--- a/.idea/compiler.xml	(revision 5996c7aba37ebead6ea834a7e94afb5f15fa529d)
++++ b/.idea/compiler.xml	(date 1634536557892)
+@@ -9,6 +9,9 @@
+         <module name="serving-web-content" />
+       </profile>
+     </annotationProcessing>
++    <bytecodeTargetLevel>
++      <module name="serving-web-content" target="11" />
++    </bytecodeTargetLevel>
+   </component>
+   <component name="JavacSettings">
+     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
