@@ -1,6 +1,6 @@
 
 
-Team: rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [contributors](https://github.com/paul-bokelman/m221/graphs/contributors), [PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing)
+Team: rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [contributors](https://github.com/paul-bokelman/m221/graphs/contributors), [PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing), [Link to Site](http://m221.tk/)
 
 | Name            | Github ID       | Tasks  | Scrum Board | Commits | Profile |
 | :------------   |:--------------- | :----- | :---------- | :------ | :------ |
@@ -9,7 +9,6 @@ Team: rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokel
 | Jagroop Vij     | LordRoop      | [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3ALordRoop)       | [scrum board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Alordroop) | [commits](https://github.com/paul-bokelman/m221/commits?author=LordRoop) | [profile](https://github.com/LordRoop) |
 | Samuel Mahjouri | iBraskyy      | [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3AiBraskyy)       | [scrum board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3AiBraskyy) | [commits](https://github.com/paul-bokelman/m221/commits?author=iBraskyy) | [profile](https://github.com/iBraskyy) |
 | Luca Pinto      | lucap2527     | [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3Alucap2527)      | [scrum board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Alucap2527) | [commits](https://github.com/paul-bokelman/m221/commits?author=luca2527) | [profile](https://github.com/lucap2527) |
-
 
 
 # Summary
@@ -71,13 +70,13 @@ Going to provide seniors from Del Norte a website that displays who is still in/
 
 [Ishan's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/42) - Final Grade 6/6
 
-[Roop's Individual Final Review Ticket]()
+[Roop's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/46)
 
 [Sam's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/43) - Final Grade: 6/6 
 
 [Paul's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/44) - Final Grade: 6/6
 
-[Luca's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/45)
+[Luca's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/45) - Final Grade: 6/6
 
 
 </details>
