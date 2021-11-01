@@ -4,14 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8cba1c-dbf2-4c75-9db4-b2f0675e6df7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/m221.iml" afterDir="false" />
+    <list default="true" id="4d8cba1c-dbf2-4c75-9db4-b2f0675e6df7" name="Changes" comment="commiting and pushing so code compiles">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sping_portfolio/Rooplab.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_17_2021_9_52_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_17_2021_9_52_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_20_2021_9_09_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_20_2021_9_09_AM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MinilabNumber3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MinilabNumber3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Staff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StudentInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StudentInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Chihuahua.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Chihuahua.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Minilab4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Minilab4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/PaulLab$Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/PaulLab$Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/PaulLab$Multiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/PaulLab$Multiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/PaulLab.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/PaulLab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/SamLab.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/SamLab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Student/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/Student/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Alive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Alive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Binary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Binary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Dead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Dead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Fib.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Fib.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Ishan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Ishan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Jgroop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Jgroop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Leaderboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Leaderboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Paul.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Paul.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/SamUnit6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/SamUnit6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/TeamTasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/TeamTasks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/ASCIIArt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/ASCIIArt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Array2DBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Array2DBasics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Drawing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Drawing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Picture.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/controllers/asciiart/Picture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/paullabs/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/paullabs/Loops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/paullabs/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/paullabs/Recursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/ASCII$ASCIIArtFont.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/ASCII$ASCIIArtFont.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/ASCII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/ASCII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/samlabs/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/unit7/ConvertGrayScale.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/unit7/ConvertGrayScale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/unit7/RedImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sping_portfolio/unit7/RedImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/alive.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/alive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/sping_portfolio/MainTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/sping_portfolio/MainTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,20 +78,54 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Spring Boot.Main">
-    <configuration name="ASCIIArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.sping_portfolio.controllers.asciiart.ASCIIArt" />
+  <component name="RunManager" selected="Application.RoopLab">
+    <configuration name="Minilab4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.sping_portfolio.Minilab4" />
       <module name="serving-web-content" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.sping_portfolio.controllers.asciiart.*" />
+          <option name="PATTERN" value="com.example.sping_portfolio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoopLab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.sping_portfolio.RoopLab" />
+      <module name="serving-web-content" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.sping_portfolio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SamLab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.sping_portfolio.SamLab" />
+      <module name="serving-web-content" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.sping_portfolio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roop_lab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="roop_lab" />
+      <module name="serving-web-content" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,22 +154,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Main" />
+      <item itemvalue="Application.Minilab4" />
+      <item itemvalue="Application.roop_lab" />
+      <item itemvalue="Application.RoopLab" />
+      <item itemvalue="Application.SamLab" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RoopLab" />
+        <item itemvalue="Application.SamLab" />
+        <item itemvalue="Application.roop_lab" />
+        <item itemvalue="Application.Minilab4" />
         <item itemvalue="Spring Boot.Main" />
-        <item itemvalue="Application.ASCIIArt" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c44c42ae-ef50-4349-ba38-9d88dffdf85e" name="Changes" comment="" />
+      <changelist id="4d8cba1c-dbf2-4c75-9db4-b2f0675e6df7" name="Changes" comment="commiting and pushing so code compiles" />
       <created>1634660378445</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634660378445</updated>
       <workItem from="1634660384047" duration="2470000" />
+      <workItem from="1635732450813" duration="1197000" />
+      <workItem from="1635743295845" duration="4242000" />
     </task>
     <task id="LOCAL-00001" summary="ascii art lab">
       <created>1634660583456</created>
@@ -126,5 +219,10 @@
     <MESSAGE value="ascii art lab" />
     <MESSAGE value="commiting and pushing so code compiles" />
     <option name="LAST_COMMIT_MESSAGE" value="commiting and pushing so code compiles" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/m221$Main.ic" NAME="Main Coverage Results" MODIFIED="1635220205840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.sping_portfolio.*</FILTER>
+    </SUITE>
   </component>
 </project>
