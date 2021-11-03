@@ -2,7 +2,7 @@
 
 Team: rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokelman/m221/projects/1), [contributors](https://github.com/paul-bokelman/m221/graphs/contributors), [PBL Journal](https://docs.google.com/document/d/18HXRgCK03j-oEDDNULipVbmPbQST__IhFfyIKpCGtlQ/edit?usp=sharing), [Link to Site](http://m221.tk/)
 
-| Name            | Github ID       | Tasks  | Scrum Board | Commits | Profile |
+| Contributors            | Github ID       | Tasks  | Scrum Board | Commits | Profile |
 | :------------   |:--------------- | :----- | :---------- | :------ | :------ |
 | Paul Bokelman   | paul-bokelman | [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3Apaul-bokelman)  | [scrum_board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Apaul-bokelman) | [commits](https://github.com/paul-bokelman/m221/commits?author=paul-bokelman) | [profile](https://github.com/paul-bokelman) |
 | Ishan Kapoor    | iskapoor      | [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3Aiskapoor)       | [scrum_board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Aiskapoor) | [commits](https://github.com/paul-bokelman/m221/commits?author=iskapoor) and [commits](https://github.com/paul-bokelman/m221/commits?author=Eshan21) | [profile](https://github.com/iskapoor) and [profile](https://github.com/Eshan21)|
