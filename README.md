@@ -11,7 +11,7 @@ Team: rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokel
 | Luca Pinto      | lucap2527     | [tasks](https://github.com/paul-bokelman/m221/issues?q=is%3Aopen+assignee%3Alucap2527)      | [scrum board](https://github.com/paul-bokelman/m221/projects/1?card_filter_query=assignee%3Alucap2527) | [commits](https://github.com/paul-bokelman/m221/commits?author=luca2527) | [profile](https://github.com/lucap2527) |
 
 
-# Summary
+# Purpose
 
 Going to provide seniors from Del Norte a website that displays who is still in/out in Senior Assassins + other cool features. The main goal is to have one page with every player listed with their corresponding photo and either a red X on them (Out) or a green checkmark (Still in). It will provide a higher lever of conveniency for the players
 
