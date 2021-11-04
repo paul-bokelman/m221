@@ -15,6 +15,9 @@ Team: rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokel
 
 Wanted to prove seniors from Del Norte with a website for senior assassins. The premise of our page is for us to display the players that are alive/dead in the game as well as a few other cool features. 
 
+# How to Contribute
+
+If you want to contribute, go over your ideas with us first by messaging us through slack/email, and pull request.
 
 # Team Journals
 
