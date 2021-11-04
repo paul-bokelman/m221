@@ -24,6 +24,12 @@
     </properties>
 
     <dependencies>
+        <!-- Database -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
+             
         <!-- Spring -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
