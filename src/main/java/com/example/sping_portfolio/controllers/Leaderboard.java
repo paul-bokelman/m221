@@ -6,12 +6,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class Leaderboard {
     @GetMapping("/leaderboard")
     public String page(Model model) {
-
-        String[] lb = {"Ishan", "Mort", "Yeonjoon"};
-        model.addAttribute("firstP", lb[0]);
-        model.addAttribute("secondP", lb[1]);
-        model.addAttribute("thirdP", lb[2]);
-
         return "leaderboard";
     }
 }

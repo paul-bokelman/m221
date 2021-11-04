@@ -156,33 +156,30 @@ nav li a:hover {
 .teamtask-container a:hover {
   color: #815e3d;
 }
-
-#Leaderboard {
-  width: 500px;
-  margin: 10px;
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
 }
 
-.leaderboardol {
-  color: #ccc;
-  list-style-type: none;
+#customers td,
+#customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
 }
 
-.leaderboardlist {
-  position: relative;
-  font: bold italic 45px/1.5 Helvetica, Verdana, sans-serif;
-  margin-bottom: 20px;
+#customers tr:nth-child(even) {
+  background-color: #f2f2f2;
 }
 
-.leaderboardcontent {
-  font: 12px/1.5 Helvetica, sans-serif;
-  padding-left: 59px;
-  color: #555;
+#customers tr:hover {
+  background-color: #ddd;
 }
 
-.Leaderboardnumbers {
-  position: absolute;
-}
-
-.display-none {
-  display: none !important;
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04aa6d;
+  color: white;
 }
