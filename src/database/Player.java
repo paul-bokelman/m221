@@ -6,6 +6,7 @@ import javax.validation.constraints.Size;
 import java.util.Set;
 
 @Entity
+@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class }) 
 public class Player {
 
     @Id
