@@ -13,7 +13,8 @@ Team: rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokel
 
 # Purpose
 
-Going to provide seniors from Del Norte a website that displays who is still in/out in Senior Assassins + other cool features. The main goal is to have one page with every player listed with their corresponding photo and either a red X on them (Out) or a green checkmark (Still in). It will provide a higher lever of conveniency for the players
+Wanted to prove seniors from Del Norte with a website for senior assassins. The premise of our page is for us to display the players that are alive/dead in the game as well as a few other cool features. 
+
 
 # Team Journals
 
