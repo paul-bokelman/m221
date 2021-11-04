@@ -13,7 +13,7 @@ Team: rickrickrickrickandmorty-m221, [scrum_board](https://github.com/paul-bokel
 
 # Purpose
 
-Wanted to prove seniors from Del Norte with a website for senior assassins. The premise of our page is for us to display the players that are alive/dead in the game as well as a few other cool features. 
+Wanted to providee seniors from Del Norte with an aestheticlaly pleasing website for senior assassins. The premise of our page is for us to display the players that are alive/dead in the game as well as with a few other cool features. 
 
 # How to Contribute
 
