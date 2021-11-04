@@ -70,17 +70,8 @@ If you want to contribute, go over your ideas with us first by messaging us thro
   
 </details>
   
-# Finals
 
-[Ishan's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/42) - Final Grade 6/6
 
-[Roop's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/46) - Final Grade 6/6
-
-[Sam's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/43) - Final Grade: 6/6 
-
-[Paul's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/44) - Final Grade: 6/6
-
-[Luca's Individual Final Review Ticket](https://github.com/paul-bokelman/m221/issues/45) - Final Grade: 6/6
 
 
 </details>
