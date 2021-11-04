@@ -156,6 +156,11 @@ nav li a:hover {
 .teamtask-container a:hover {
   color: #815e3d;
 }
+
+.display-none {
+  display: none;
+}
+
 #customers {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
