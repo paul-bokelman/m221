@@ -4,9 +4,7 @@ abstract class Car {
 
     String model;
 
-    public void honk() {
-        System.out.println(model + " Honked");
-    }
+    public void honk() { System.out.println(model + " Honked"); }
     public void crash() { System.out.println(model + " crashed"); }
     public void stop() { System.out.println(model + " stopped"); }
 
