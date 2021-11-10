@@ -120,6 +120,7 @@ If you want to contribute, go over your ideas with us first by messaging us thro
   <details>
 <summary>Sam</summary>
 <br>
+  
   1. Ishan and Roop took the initiative in presenting which was awesome. It would have been even better to see Luca and Paul trying to join them as well which they did briefly but it’s ok. I’m glad we succeeded in getting deployment working and also it seemed that a lot of people were interested in our idea since they were playing senior assassins as well.
   2. I wish that I could have presented a little bit more. I didn’t get to present as much as I wanted to and I feel I would’ve done the best job out of everyone else in representing our project. Also, Luca could have presented a little bit more and that would have been perfect.
   3. 
