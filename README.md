@@ -77,12 +77,58 @@ If you want to contribute, go over your ideas with us first by messaging us thro
 </details>
 
 # N@tM Reflections
+  
+ Questions:
+1. What went well?
+2. What didn't go that well?
+3. What did every team member learn?
+4. What puzzles every team member?
+5. What was your favorite mini-lab project?
+6. What was your favorite CB topic?
+7. Identify in priority order biggest challenges.
+8. What was your favorite N@tM project?
 
 <details>
 <summary>Ishan</summary>
 <br>
   
-  responses
+  1. Despite our struggles across the Tri, we were able to create a finished product with a database, leaderboard, and alive/dead players page present. While it wasn't what we all expected, we did end up with a completed product and many key features are present, we were able to effectively combine the different aspects of our idea into a website format and code it in a clean and modular manner.
+  2. A lot. We weren't able to coordinate at all for most of the trimester and my commits weren't counting (despite getting that fixed a few weeks in). We also ran into compilation issues and many people didn't finish the work they should have as they were messing off with low expectations as they are seniors. Overall, our team lacked working teammates and due to no one trying to work, there wasn't much work to coordinate. As such, despite my attempts, our product was far from the completed work we envisioned.
+  3. I personally learned a lot about how to manage a team and try to get ineffective teammates working, through my growth mindset, near the end, we were about to coordinate and finish the presentation on our project together as a team. Roop learned how a site works in the backend and gained valuable experience in how to deploy a java site.
+  4. There was a build error in maven when we tried to compile the site recently. Through the efforts of Roop, it was eventually resolved but we did struggle with it for a while.
+  5. ASCII Art Lab
+  6. Unit 9
+  7. Learning Thymeleaf, Communication with Team, Working on PBL, Helping with Deployment
+  8. Art project by Logan Brown in Design Mixed Media
   
 </details>
+  <details>
+<summary>Roop</summary>
+<br>
+  
+  
+  
+</details>
+  <details>
+<summary>Sam</summary>
+<br>
+  
+  
+  
+</details>
+  <details>
+<summary>Paul</summary>
+<br>
+  
+  
+  
+</details>
+  <details>
+<summary>Luca</summary>
+<br>
+  
+  
+  
+</details>
+  
   
