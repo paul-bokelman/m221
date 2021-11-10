@@ -105,7 +105,10 @@ If you want to contribute, go over your ideas with us first by messaging us thro
   6. Unit 9
   7. Learning Thymeleaf, Communication with Team, Working on PBL, Helping with Deployment
   8. Art project by Logan Brown in Design Mixed Media
-  
+  9. CS teaches you logic, logic is the basis of every conclusion. Regardless of what study, a thorough understanding of logic is crucial. In math, to form proofs; In science, to make hypothesis, analysis, and conclusions; in literature, to create flows and make arguements; etc.
+  How do I prepare myself and group for a 3rd Trimester project and obtain a sponsor?
+  10. Through CS, we can visualize ideas on the internet and transform imagination into tangibles. I personally had an idea to recreate the disperse supply chain of local and small-scale farmers during the start of the pandemic. I was able to create a 'online farmers market' through my knowledge of CS. 
+  11. I have experience in starting a company and am comfortable in obtaining VC funding for an idea through my connections and experience.
   
 </details>
   <details>
