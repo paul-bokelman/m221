@@ -78,7 +78,7 @@ If you want to contribute, go over your ideas with us first by messaging us thro
 
 # N@tM Reflections
   
- Questions:
+## Reflection:
 1. What went well?
 2. What didn't go that well?
 3. What did every team member learn?
@@ -86,10 +86,12 @@ If you want to contribute, go over your ideas with us first by messaging us thro
 5. What was your favorite mini-lab project?
 6. What was your favorite CB topic?
 7. Identify in priority order biggest challenges.
-8. What was your favorite N@tM project?
+8. What was your favorite N@tM project? 
+
+## Goals for Trimester 2 
 9. How can I use computing to help me as a student in other classes? How can my computing work and projects help me study my other subjects and interests?
 10. How can I use computing to build something that is fun for me, as well as leave a legacy for future DNHS students?
-11. How do I prepare myself and group for a 3rd Trimester project and obtain a sponsor?  
+11. How do I prepare myself and group for a 3rd Trimester project and obtain a sponsor? 
 
 <details>
 <summary>Ishan</summary>
