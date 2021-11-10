@@ -123,14 +123,7 @@ If you want to contribute, go over your ideas with us first by messaging us thro
   
   1. Ishan and Roop took the initiative in presenting which was awesome. It would have been even better to see Luca and Paul trying to join them as well which they did briefly but it’s ok. I’m glad we succeeded in getting deployment working and also it seemed that a lot of people were interested in our idea since they were playing senior assassins as well.
   2. I wish that I could have presented a little bit more. I didn’t get to present as much as I wanted to and I feel I would’ve done the best job out of everyone else in representing our project. Also, Luca could have presented a little bit more and that would have been perfect.
-  3. Roop learned how to deploy through java for this trimester which was a very great accomplishment for our group. Ishaan learned a lot about java and the same can be said for me and Paul. I learned a lot about managing a group that doesn’t want to put any effort into working together. I don’t really know what Luca learned but I guess he learned that he should do his work.
-  4. There were several weeks where all the work we turned in was beyond late. We also had really poor communication. I think we are puzzled as to how badly structured our group is. We were also puzzled as to why all the work we had done for our PBL were concepts different from the work we would be needing to do for Collegeboard. I think my biggest challenge was trying to write my database.
-  5. My favorite minilab project would either have been the grayscale lab or the ascii art lab. I think the ascii art lab would actually be the best since grayscale is a part of it. It was really awesome to learn about how grayscale functions as it takes the average value of the r, g, and b in the rgb values then reassigns the pixels to that color. Then for the brightness of each pixel to correspond to the perfect character. A very cool concept in my opinion.
-  6. My favorite Collegeboard topic would have been recursion and loops (unit 6) because it was also very interesting to learn about an infinite loop that would go on forever until a certain criterion (base-case) was met that would end the recursion. It was also really cool for me to code it out for a factorial loop.
-  7. 1 - Frontend code- we really wanted to make a functional website with purpose and so in order to do that we would need a truly aesthetically impressive user interface.
-2 - Deployment - we wanted to get deployment working so we could release our project to the public but we were having trouble with that until Roop was finally able to get it working in the last week
-3 - Database - I was in charge of creating the format for the database and what information would be stored which was very fun and a great learning experience for me.
-  8. My favorite N@tM project was by Jeanie Yun. She had taken red yarn and implemented that into one of her drawings in which it created a very cool effect. The piece itself was also very dark and grim but perfectly matched my taste in art.
+  3. 
   
 </details>
   <details>
@@ -181,7 +174,16 @@ Sam - Worked mainly on the organization/presentation aspect of our website which
   
 # Pictures from N@tM Tour
 
+Ishan:
 ![ishan1](https://raw.githubusercontent.com/paul-bokelman/m221/master/20211109_083813.jpg)
 ![ishan2](https://raw.githubusercontent.com/paul-bokelman/m221/master/20211109_083935.jpg)
 ![ishan3](https://raw.githubusercontent.com/paul-bokelman/m221/master/20211109_084048.jpg)
 ![ishan4](https://raw.githubusercontent.com/paul-bokelman/m221/master/20211109_084005.jpg)
+
+Paul:
+![Paul1](https://user-images.githubusercontent.com/72945168/141162846-7d120023-03c8-40a7-abb7-e3a862d7a45d.png)
+![Paul2](https://user-images.githubusercontent.com/72945168/141163262-149d48fa-b4e7-40f1-a78f-bd010ff028d0.png)
+![Paul3](https://user-images.githubusercontent.com/72945168/141163325-83f260eb-bf0f-4952-80b8-2aa48d9a90e5.png)
+![Paul4](https://user-images.githubusercontent.com/72945168/141163331-b1639230-867b-4e2b-bba4-26ab59337a3e.png)
+
+
