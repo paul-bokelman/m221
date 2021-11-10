@@ -101,6 +101,7 @@ If you want to contribute, go over your ideas with us first by messaging us thro
   7. Learning Thymeleaf, Communication with Team, Working on PBL, Helping with Deployment
   8. Art project by Logan Brown in Design Mixed Media
   
+  
 </details>
   <details>
 <summary>Roop</summary>
