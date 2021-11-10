@@ -226,6 +226,5 @@ Paul:
 Sam: 
 ![Sam1](https://user-images.githubusercontent.com/72888867/141164530-3fa0bb31-5319-407a-b38d-7e5d89a28923.png)
 ![Sam2](https://user-images.githubusercontent.com/72888867/141164719-4e09a3cf-d232-489d-8b11-5c60295595f9.png)
-
-
+![Sam3](https://user-images.githubusercontent.com/72888867/141168812-e96b43ea-ea06-40ba-90b1-2a89b2191f46.png)
 
