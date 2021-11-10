@@ -134,14 +134,20 @@ If you want to contribute, go over your ideas with us first by messaging us thro
   <details>
 <summary>Luca</summary>
 <br>
-  
-  
+ 1. Our overall project went very well and our ability to get all the aspects done except the leaderboard due to lack of a DN database for it. We actually got most of our features done including our graybase and alive system that displays all the players by their photo (gray or normal), name and details. Our journals as well as our github appearance is also very good and we stay on top of our requirements each week with a proper, detailed read me and individual journals that are to be kept up to date each and every week.
+2. Our communication as a team could’ve been a little bit better as there were situations in which we were unable to communicate with a certain person. We were able to fix this a good portion into the trimester when we made a discord and group chat where we can communicate freely and it helps get assignments done that we need help on or are confused about. Also, our leaderboard didnt get to be finished but this is because there is no del norte database to connect to, we would have to connect to one or make our own for the game which is a future goal. 
+3. Luca - Learned major presenting skills such as presentation formation and deployment. Mainly worked on html CSS/front end code that is able to be viewed on the website by a user. My backend coding needs some work but overall my frontend got a lot better by using the CB quizzes/information to my personal use.
+Paul - Learned a lot of back end / communication skills that were not there when the trimester first started. I worked with him to get his journal/read me work better and now it looks just fine.
+Roop - Worked mainly on deployment and was able to successfully complete it within the given timeframe. During this process he learned a lot about deployment as we was in a hands on environment.
+Ishaan -  Worked on backend mainly and was able to practice his backend coding by completing certain tasks such as the alive page where him and Paul were able to connect the gray scale to the front end.
+Sam - Worked mainly on the organization/presentation aspect of our website which means working on the readme and a group journal for the end of the week submission. Sam got a lot of orgazational and managing practice as he basically took full responsibility of the actual appearance of our work along with me.
+4. What puzzles every team member is a lack of communication with each member in the group. When one person doesn’t answer it makes it a lot harder to get difficult tasks done so a good basis for communication is required in order to get a lot of work done. This was made better about half way through the trimester when we got our communication on point and it wasn't a problem anymore.
+5. My favorite mini-lab project was the ASCII art lab in which we made art of Mr. Mortensen through ASCII art. This involves the use of text and grayscale in order to compose a resemblance of someone or something. Through the process of creating this lab we learned a lot about new forms of code and different ways in which we can use code that we didn’t think were possible such as creating art. This was also a very fun experience as our group worked together to try and get this photo looking as much as Mortensen as we could possibly make it.
+6. My favorite CB topic was the part about arrays which is a topic that has always been really confusing for me. Through learning in class, getting help from teammates, taking the CB quiz, and learning online I was able to understand what arrays are even though they were so confusing for a long portion of my coding life. Now I can understand them and be able to use them in my code.
+7. Team work / communication / organization |   Deployment | Leaderboard database connection
   
 </details>
   
 # Pictures from N@tM Tour
 
-![ishan1](https://raw.githubusercontent.com/paul-bokelman/m221/master/20211109_083813.jpg)
-![ishan2](https://raw.githubusercontent.com/paul-bokelman/m221/master/20211109_083935.jpg)
-![ishan3](https://raw.githubusercontent.com/paul-bokelman/m221/master/20211109_084005.jpg)
-![ishan4](https://raw.githubusercontent.com/paul-bokelman/m221/master/20211109_084048.jpg)
+
