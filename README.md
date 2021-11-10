@@ -122,14 +122,7 @@ If you want to contribute, go over your ideas with us first by messaging us thro
 <br>
   1. Ishan and Roop took the initiative in presenting which was awesome. It would have been even better to see Luca and Paul trying to join them as well which they did briefly but it’s ok. I’m glad we succeeded in getting deployment working and also it seemed that a lot of people were interested in our idea since they were playing senior assassins as well.
   2. I wish that I could have presented a little bit more. I didn’t get to present as much as I wanted to and I feel I would’ve done the best job out of everyone else in representing our project. Also, Luca could have presented a little bit more and that would have been perfect.
-  3. Roop learned how to deploy through java for this trimester which was a very great accomplishment for our group. Ishaan learned a lot about java and the same can be said for me and Paul. I learned a lot about managing a group that doesn’t want to put any effort into working together. I don’t really know what Luca learned but I guess he learned that he should do his work.
-  4. There were several weeks where all the work we turned in was beyond late. We also had really poor communication. I think we are puzzled as to how badly structured our group is. We were also puzzled as to why all the work we had done for our PBL were concepts different from the work we would be needing to do for Collegeboard. I think my biggest challenge was trying to write my database.
-  5. My favorite minilab project would either have been the grayscale lab or the ascii art lab. I think the ascii art lab would actually be the best since grayscale is a part of it. It was really awesome to learn about how grayscale functions as it takes the average value of the r, g, and b in the rgb values then reassigns the pixels to that color. Then for the brightness of each pixel to correspond to the perfect character. A very cool concept in my opinion.
-  6. My favorite Collegeboard topic would have been recursion and loops (unit 6) because it was also very interesting to learn about an infinite loop that would go on forever until a certain criterion (base-case) was met that would end the recursion. It was also really cool for me to code it out for a factorial loop.
-  7. (1 - Frontend code- we really wanted to make a functional website with purpose and so in order to do that we would need a truly aesthetically impressive user interface.
-2 - Deployment - we wanted to get deployment working so we could release our project to the public but we were having trouble with that until Roop was finally able to get it working in the last week
-3 - Database - I was in charge of creating the format for the database and what information would be stored which was very fun and a great learning experience for me.)
-  8. My favorite N@tM project was by Jeanie Yun. She had taken red yarn and implemented that into one of her drawings in which it created a very cool effect. The piece itself was also very dark and grim but perfectly matched my taste in art.
+  3. 
   
 </details>
   <details>
@@ -157,16 +150,24 @@ Working with the team was the number 1 challenge because no one wanted to do the
 <summary>Luca</summary>
 <br>
  1. Our overall project went very well and our ability to get all the aspects done except the leaderboard due to lack of a DN database for it. We actually got most of our features done including our graybase and alive system that displays all the players by their photo (gray or normal), name and details. Our journals as well as our github appearance is also very good and we stay on top of our requirements each week with a proper, detailed read me and individual journals that are to be kept up to date each and every week.
+<br>
 2. Our communication as a team could’ve been a little bit better as there were situations in which we were unable to communicate with a certain person. We were able to fix this a good portion into the trimester when we made a discord and group chat where we can communicate freely and it helps get assignments done that we need help on or are confused about. Also, our leaderboard didnt get to be finished but this is because there is no del norte database to connect to, we would have to connect to one or make our own for the game which is a future goal. 
+<br>
 3. Luca - Learned major presenting skills such as presentation formation and deployment. Mainly worked on html CSS/front end code that is able to be viewed on the website by a user. My backend coding needs some work but overall my frontend got a lot better by using the CB quizzes/information to my personal use.
 Paul - Learned a lot of back end / communication skills that were not there when the trimester first started. I worked with him to get his journal/read me work better and now it looks just fine.
 Roop - Worked mainly on deployment and was able to successfully complete it within the given timeframe. During this process he learned a lot about deployment as we was in a hands on environment.
 Ishaan -  Worked on backend mainly and was able to practice his backend coding by completing certain tasks such as the alive page where him and Paul were able to connect the gray scale to the front end.
 Sam - Worked mainly on the organization/presentation aspect of our website which means working on the readme and a group journal for the end of the week submission. Sam got a lot of orgazational and managing practice as he basically took full responsibility of the actual appearance of our work along with me.
+<br>
 4. What puzzles every team member is a lack of communication with each member in the group. When one person doesn’t answer it makes it a lot harder to get difficult tasks done so a good basis for communication is required in order to get a lot of work done. This was made better about half way through the trimester when we got our communication on point and it wasn't a problem anymore.
+<br>
 5. My favorite mini-lab project was the ASCII art lab in which we made art of Mr. Mortensen through ASCII art. This involves the use of text and grayscale in order to compose a resemblance of someone or something. Through the process of creating this lab we learned a lot about new forms of code and different ways in which we can use code that we didn’t think were possible such as creating art. This was also a very fun experience as our group worked together to try and get this photo looking as much as Mortensen as we could possibly make it.
+<br>
 6. My favorite CB topic was the part about arrays which is a topic that has always been really confusing for me. Through learning in class, getting help from teammates, taking the CB quiz, and learning online I was able to understand what arrays are even though they were so confusing for a long portion of my coding life. Now I can understand them and be able to use them in my code.
+<br>
 7. Team work / communication / organization |   Deployment | Leaderboard database connection
+<br> 
+8. This would have to be Ryan’s project as it is very well done and the website traveled throughout pages very smoothly. Also, the overall presentation of the website was very good as they showed every function.
   
 </details>
   
