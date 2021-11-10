@@ -88,9 +88,7 @@ If you want to contribute, go over your ideas with us first by messaging us thro
 7. Identify in priority order biggest challenges.
 8. What was your favorite N@tM project?
 9. How can I use computing to help me as a student in other classes? How can my computing work and projects help me study my other subjects and interests?
-<br>
 10. How can I use computing to build something that is fun for me, as well as leave a legacy for future DNHS students?
-<br>
 11. How do I prepare myself and group for a 3rd Trimester project and obtain a sponsor?  
 
 <details>
