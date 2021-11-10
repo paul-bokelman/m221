@@ -139,8 +139,9 @@ If you want to contribute, go over your ideas with us first by messaging us thro
 2 - Deployment - we wanted to get deployment working so we could release our project to the public but we were having trouble with that until Roop was finally able to get it working in the last week
 3 - Database - I was in charge of creating the format for the database and what information would be stored which was very fun and a great learning experience for me.
   8. My favorite N@tM project was by Jeanie Yun. She had taken red yarn and implemented that into one of her drawings in which it created a very cool effect. The piece itself was also very dark and grim but perfectly matched my taste in art.
-  
-  9. 
+  9. Some ways I can use computing to help me with other classes is in my math class. Other than that I think I can find a way to use computer science with everything, but personally, I wouldn’t use it for school I would use it to try and start a business idea.
+  10.  I think the senior assassins website I made with my group this trimester would have been a great legacy for del norte. Anything related to the real world that corresponds with one of my interests would be so much fun for me to code something for. 
+  11.  I think for 3rd trimester I’m going to make sure my group is more determined and motivated. If my group is actually invested in the project then they'll work hard and hard work will produce something awesome which will obtain a sponsor
   
 </details>
   <details>
