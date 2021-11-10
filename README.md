@@ -106,7 +106,14 @@ If you want to contribute, go over your ideas with us first by messaging us thro
 <summary>Roop</summary>
 <br>
   
-  
+  1. Our project turned out very clean and polished
+  2. Our communication within the group was not stellar. It definitely needed work
+  3. I personally learned about the backend of websites, and how to run them. I think we all learned a bit more on how maven works and how it interacts w the code in our project deployment
+  4. We were all not sure why we were getting a build error in maven. Using the tekari wrapper fixed it but we are still not sure why it wouldn't build
+  5. grayscale
+  6. Unit 5 was my favorite because it was the easiest to understand
+  7. Deployment (I kinda made this one harder than it needed to be), Communication with the Team, Working on PBL, Collegeboard
+  8.There was a really cool painting in AP Studio Drawing of a giant squid monster attacking the space needle Drawn by Sanya Sitlani
   
 </details>
   <details>
