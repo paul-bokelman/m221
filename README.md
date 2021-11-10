@@ -183,6 +183,12 @@ Sam - Worked mainly on the organization/presentation aspect of our website which
 7. Team work / communication / organization |   Deployment | Leaderboard database connection
 <br> 
 8. This would have to be Ryan’s project as it is very well done and the website traveled throughout pages very smoothly. Also, the overall presentation of the website was very good as they showed every function.
+<br>
+9. Computer science helps students think in a step by step process that can be used on other subjects such as an english essay getting broken down into simple, easy to understand paragraphs. Also my coding work will help me in the future if I need to program something or make for example a website for a future class.
+<br>
+10. Hopefully this senior assasin page one day will be used by DN students in the future who can use the website as a way to see who has the most kills or is still in the game
+<br>
+11. I can prepare myself by cleaning up my journals and work space on intelij for a completely new workspace and project for the next trimester. I also can learn some usefull skills such as database management which is a tough aspect of coding. In order to get a sponser we're going to have to probably pitch our group idea to a possbile sponser, without at least a start to the code it will be very hard to get one.
   
 </details>
   
