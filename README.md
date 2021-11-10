@@ -123,6 +123,9 @@ If you want to contribute, go over your ideas with us first by messaging us thro
   6. Unit 5 was my favorite because it was the easiest to understand
   7. Deployment (I kinda made this one harder than it needed to be), Communication with the Team, Working on PBL, Collegeboard
   8. There was a really cool painting in AP Studio Drawing of a giant squid monster attacking the space needle Drawn by Sanya Sitlani
+  9. I can use it to make websites for other projects like the 3D animation Portfolio which we need to make a website for.
+  10. We did in fact make a project that wwas fun for us and will be useful for seniors in the future
+  11. I need to get better at presenting stuff and making myself look better.
   
 </details>
   <details>
