@@ -114,7 +114,7 @@ If you want to contribute, go over your ideas with us first by messaging us thro
   5. grayscale
   6. Unit 5 was my favorite because it was the easiest to understand
   7. Deployment (I kinda made this one harder than it needed to be), Communication with the Team, Working on PBL, Collegeboard
-  8.There was a really cool painting in AP Studio Drawing of a giant squid monster attacking the space needle Drawn by Sanya Sitlani
+  8. There was a really cool painting in AP Studio Drawing of a giant squid monster attacking the space needle Drawn by Sanya Sitlani
   
 </details>
   <details>
@@ -139,4 +139,6 @@ If you want to contribute, go over your ideas with us first by messaging us thro
   
 </details>
   
-  
+# Pictures from N@tM Tour
+
+
