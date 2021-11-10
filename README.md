@@ -128,7 +128,21 @@ If you want to contribute, go over your ideas with us first by messaging us thro
   <details>
 <summary>Paul</summary>
 <br>
-  
+- What went well?
+Throughout the trimester our team learned a great deal about the quirks and facets of everything that goes into Java web development. One thing that I think our team excelled at was the presentation of our ideas. Our presentations were very detailed and concise and they were able to convey our ideas very well. 
+- What didn't go that well?
+Something that didn’t go well was our group collaboration. Our team didn’t work very well together and didn’t have the chemistry that was required in order to be a successful team.
+- What did every team member learn?
+Something that every team member learned was how to work together when things get hard. Everyone in our team suffered from communication but overtime we evolved and worked together better and communicated more effectively. 
+- What puzzles every team member?
+Something that until this day still puzzles all team members is the Java database. We were never able to get the Java database and api functional because of problems that we could not overcome. The hurdles surrounding the Java database were just too tall to jump over and we ended up falling. We plan to continue working on this problem well into the second trimester.
+
+- What was your favorite mini-lab project?
+The grayscale mini lab was my favorite. The reason that this lab in particular was my favorite was because the idea of grayscaling an image fit very well into our project because we could display visually which players were in the game and which ones were not.  
+- What was your favorite CB topic?
+My favorite college board topic was the Loops and Recursion unit. I found this to be a very interesting unit because there are infinite possibilities that you can accomplish with these two paradigms of programming. It was a lot of fun to mess around with various algorithms that used loops and recursion and very gratifying to integrate both paradigms into our project to accomplish a goal. 
+- Identify in priority order biggest challenges.
+Working with the team was the number 1 challenge because no one wanted to do their tasks and constantly arguing. The second and last largest challenge was the database because I was never able to figure out how to get it to work. 
   
   
 </details>
