@@ -155,9 +155,13 @@ Working with the team was the number 1 challenge because no one wanted to do the
 2. Our communication as a team could’ve been a little bit better as there were situations in which we were unable to communicate with a certain person. We were able to fix this a good portion into the trimester when we made a discord and group chat where we can communicate freely and it helps get assignments done that we need help on or are confused about. Also, our leaderboard didnt get to be finished but this is because there is no del norte database to connect to, we would have to connect to one or make our own for the game which is a future goal. 
 <br>
 3. Luca - Learned major presenting skills such as presentation formation and deployment. Mainly worked on html CSS/front end code that is able to be viewed on the website by a user. My backend coding needs some work but overall my frontend got a lot better by using the CB quizzes/information to my personal use.
+<br>
 Paul - Learned a lot of back end / communication skills that were not there when the trimester first started. I worked with him to get his journal/read me work better and now it looks just fine.
+<br>
 Roop - Worked mainly on deployment and was able to successfully complete it within the given timeframe. During this process he learned a lot about deployment as we was in a hands on environment.
+<br>
 Ishaan -  Worked on backend mainly and was able to practice his backend coding by completing certain tasks such as the alive page where him and Paul were able to connect the gray scale to the front end.
+<br>
 Sam - Worked mainly on the organization/presentation aspect of our website which means working on the readme and a group journal for the end of the week submission. Sam got a lot of orgazational and managing practice as he basically took full responsibility of the actual appearance of our work along with me.
 <br>
 4. What puzzles every team member is a lack of communication with each member in the group. When one person doesn’t answer it makes it a lot harder to get difficult tasks done so a good basis for communication is required in order to get a lot of work done. This was made better about half way through the trimester when we got our communication on point and it wasn't a problem anymore.
