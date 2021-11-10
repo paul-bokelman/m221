@@ -137,6 +137,8 @@ If you want to contribute, go over your ideas with us first by messaging us thro
 3 - Database - I was in charge of creating the format for the database and what information would be stored which was very fun and a great learning experience for me.
   8. My favorite N@tM project was by Jeanie Yun. She had taken red yarn and implemented that into one of her drawings in which it created a very cool effect. The piece itself was also very dark and grim but perfectly matched my taste in art.
   
+  9. 
+  
 </details>
   <details>
 <summary>Paul</summary>
