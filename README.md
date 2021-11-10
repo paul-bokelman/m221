@@ -210,6 +210,7 @@ Paul:
 
 Sam: 
 ![Sam1](https://user-images.githubusercontent.com/72888867/141164530-3fa0bb31-5319-407a-b38d-7e5d89a28923.png)
+![Sam2](https://user-images.githubusercontent.com/72888867/141164719-4e09a3cf-d232-489d-8b11-5c60295595f9.png)
 
 
 
