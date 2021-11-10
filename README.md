@@ -75,3 +75,14 @@ If you want to contribute, go over your ideas with us first by messaging us thro
 
 
 </details>
+
+# N@tM Reflections
+
+<details>
+<summary>Ishan</summary>
+<br>
+  
+  responses
+  
+</details>
+  
